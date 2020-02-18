@@ -31,7 +31,7 @@ github_username:  jekyll
 
 # Build settings
 #theme: minima
-remote_theme: christianezeani/panthera-jekyll
+remote_theme: thelehhman/plainwhite-jekyll
 plugins:
   - jekyll-feed
 
