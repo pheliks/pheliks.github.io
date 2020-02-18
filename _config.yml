@@ -30,9 +30,9 @@ twitter_username: jekyllrb
 github_username:  jekyll
 
 # Build settings
-theme: minima
+#theme: minima
 #theme: plainwhite
-#remote_theme: thelehhman/plainwhite-jekyll
+remote_theme: thelehhman/plainwhite-jekyll
 plugins:
   - jekyll-feed
   
