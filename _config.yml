@@ -41,10 +41,8 @@ plainwhite:
   name: Viktor Zamaraev
   date_format: "%b %-d, %Y"
   tagline: |
-  First Line. 
-
-  Second Line. 
-
+  First Line.
+  Second Line.
   Third Line.
   navigation:
     - title: Publications
