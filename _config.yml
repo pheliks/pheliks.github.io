@@ -46,6 +46,11 @@ plainwhite:
   Department of Computer science 
 
   University of Liverpool
+  navigation:
+    - title: Publications
+      url: "/publications"
+    - title: Teaching
+      url: "/teaching"
 
 
 # Exclude from processing.
