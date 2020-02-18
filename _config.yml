@@ -35,6 +35,12 @@ theme: minima
 #remote_theme: thelehhman/plainwhite-jekyll
 plugins:
   - jekyll-feed
+  
+  
+plainwhite:
+  name: Viktor Zamaraev
+  tagline: Lecturer
+  date_format: "%b %-d, %Y"
 
 
 # Exclude from processing.
