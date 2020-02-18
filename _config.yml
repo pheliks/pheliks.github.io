@@ -39,8 +39,13 @@ plugins:
   
 plainwhite:
   name: Viktor Zamaraev
-  tagline: Lecturer
   date_format: "%b %-d, %Y"
+  tagline: |
+  Lecturer
+
+  Department of Computer science 
+
+  University of Liverpool
 
 
 # Exclude from processing.
