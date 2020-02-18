@@ -40,14 +40,7 @@ plugins:
 plainwhite:
   name: Viktor Zamaraev
   date_format: "%b %-d, %Y"
-  
-plainwhite:
-  tagline: |
-  Lecturer.
-
-  Department of Computer science.
-
-  University of Liverpool.
+  tagline: Lecturer.
   
 plainwhite:
   navigation:
