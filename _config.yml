@@ -41,8 +41,6 @@ plainwhite:
   name: Viktor Zamaraev
   date_format: "%b %-d, %Y"
   tagline: Lecturer.
-  
-plainwhite:
   navigation:
     - title: Publications
       url: "/publications"
