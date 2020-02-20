@@ -31,28 +31,12 @@ github_username:  jekyll
 
 # Build settings
 #theme: minima
-#theme: minimal-mistakes-jekyll
-remote_theme: "mmistakes/minimal-mistakes"
+theme: minimal-mistakes-jekyll
+#remote_theme: "mmistakes/minimal-mistakes"
 #theme: plainwhite
 #remote_theme: thelehhman/plainwhite-jekyll
 plugins:
   - jekyll-feed
-
-sidebar:
-  - title: "Title"
-    image: http://placehold.it/350x250
-    image_alt: "image"
-    text: "Some text here."
-  - title: "Another Title"
-    text: "More text here."
-  
-defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      author_profile: true
 
 # plainwhite:
 #   name: Viktor Zamaraev
