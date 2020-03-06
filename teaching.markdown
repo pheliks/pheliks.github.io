@@ -4,16 +4,16 @@
 layout: single
 classes: wide
 #title: Viktor Zamaraev's home page
-#sidebar:
-#   - title: "Viktor Zamaraev"
-#     image: ./assets/portfolio.png
-#     image_alt: "image"
-#     text: "Lecturer<br /> Department of Computer Science<br /> University of Liverpool"
-#   - title: "Contact"
-#     text: "Email: [Viktor.Zamaraev@liverpool.ac.uk](mailto:Viktor.Zamaraev@liverpool.ac.uk)"
+sidebar:
+   - title: "Viktor Zamaraev"
+     image: ./assets/portfolio.png
+     image_alt: "image"
+     text: "Lecturer<br /> Department of Computer Science<br /> University of Liverpool"
+   - title: "Contact"
+     text: "Email: [Viktor.Zamaraev@liverpool.ac.uk](mailto:Viktor.Zamaraev@liverpool.ac.uk)"
 ---
 
-## Teaching
+# Teaching
 
 <ol class="teaching_list">
 {% for item in site.data.teaching.courses %}

@@ -13,10 +13,10 @@ sidebar:
      text: "Email: [Viktor.Zamaraev@liverpool.ac.uk](mailto:Viktor.Zamaraev@liverpool.ac.uk)"
 ---
 
-## Publications
+# Publications
 
 
-### Manuscripts
+## Manuscripts
 <ol class="pub_list">
 {% assign manuscriptIndex = site.data.publications.manuscripts.size %}
 {% for item in site.data.publications.manuscripts %}
@@ -41,7 +41,7 @@ sidebar:
 
 
 
-### Journal Publications
+## Journal Publications
 <ol class="pub_list">
 {% assign journalPubIndex = site.data.publications.journal.size %}
 {% for item in site.data.publications.journal %}
@@ -68,7 +68,7 @@ sidebar:
 
 
 
-### Conference Publications
+## Conference Publications
 
 <ol class="pub_list">
 {% assign confPubIndex = site.data.publications.conference.size %}

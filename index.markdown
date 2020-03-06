@@ -15,6 +15,7 @@ sidebar:
 
 <div class="shortBio">
 
+<!--
   <ul class="bio_list">
   {% for item in site.data.bioRecords.bio %}
     <li>
@@ -23,7 +24,7 @@ sidebar:
     </li>
   {% endfor %}
   </ul>
-
+-->
 
 
   <table class="bio_table">

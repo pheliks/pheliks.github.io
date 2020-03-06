@@ -13,7 +13,7 @@ sidebar:
      text: "Email: [Viktor.Zamaraev@liverpool.ac.uk](mailto:Viktor.Zamaraev@liverpool.ac.uk)"
 ---
 
-## Talks
+# Talks
 
 <ol class="talks_list">
 {% assign talkIndex = site.data.talks.talks.size %}
