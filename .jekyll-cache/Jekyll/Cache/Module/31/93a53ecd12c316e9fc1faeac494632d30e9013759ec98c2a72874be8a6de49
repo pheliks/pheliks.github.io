@@ -1,4 +1,4 @@
-I"U
+I"ù
 
 <div class="masthead">
   <div class="masthead__inner-wrap">
@@ -6,10 +6,12 @@
       <nav id="site-nav" class="greedy-nav">
         
         <a class="site-title" href="/">
-          Viktor Zamaraev
+           
           
         </a>
         <ul class="visible-links"><li class="masthead__menu-item">
+              <a href="/" >Home</a>
+            </li><li class="masthead__menu-item">
               <a href="/publications/" >Publicatoins</a>
             </li><li class="masthead__menu-item">
               <a href="/talks/" >Talks</a>
