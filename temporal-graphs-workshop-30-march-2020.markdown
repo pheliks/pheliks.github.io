@@ -1,6 +1,12 @@
 ---
 layout: splash
 classes: wide
+permalink: /temporal-graphs-workshop-30-march-2020/
+
+title: Workshop <br>"Algorithmic and Combinatorial Aspects of Temporal Graph Theory"
+excerpt: 30 March 2020, University of Liverpool
+header:
+  overlay_color: "#333"
 
 gallery:
   - url: https://www.lms.ac.uk/
@@ -20,25 +26,20 @@ feature_row:
   - image_path: /assets/images/workshop_30_03_2020/speakers/ThomasErlebach.jpg
     alt: "Prof. Thomas Erlebach"
     title: "Prof. Thomas Erlebach"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
   - image_path: /assets/images/workshop_30_03_2020/speakers/KittyMeeks.jpg
     alt: "Dr Kitty Meeks"
     title: "Dr Kitty Meeks"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--inverse"
   - image_path: /assets/images/workshop_30_03_2020/speakers/AlexeyPokrovskiy.jpg
     alt: "Dr Alexey Pokrovskiy"
     title: "Dr Alexey Pokrovskiy"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
 ---
 
-
+<!--
 <div class="workshop_header">
     <h1 class="workshop_header_h1"> Algorithmic and Combinatorial Aspects of Temporal Graph Theory</h1> 
     <p>30 March 2020, University of Liverpool</p>
 </div>
+-->
 
 Temporal graph theory is an emerging area motivated by the need of mathematical foundations for analysis of 
 temporal networks arising from rich and rapidly growing domain of modern systems with dynamic interactions 
@@ -49,6 +50,8 @@ The aims of this one-day workshop are:
 * highlight and strengthen the links between temporal graph theory and other areas of mathematics and computer science
 * bring together interested academics from computer science, mathematics and other areas and stimulate cross-fertilizing discussion
 * foster an interest in the new exciting field and challenging problems in the participants, especially in postgraduate students and early career researchers
+
+The workshop is suppored by [The London Mathematical Society](https://www.lms.ac.uk/ "The London Mathematical Society"), [Networks Sciences & Technologies initiative](https://www.liverpool.ac.uk/network-science-technologies/ "Networks Sciences & Technologies initiative"), and the [Department of Computer Science](https://www.liverpool.ac.uk/computer-science/) of the University of Liverpool.
 
 
 ## Invited Speakers
@@ -112,10 +115,7 @@ The aims of this one-day workshop are:
         </tr>
 </table>
 
-### Registration
 
-### Useful information
-
-### Supported by
+## Supported by
 
 {% include gallery%}

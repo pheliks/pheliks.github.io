@@ -3,6 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: single
 classes: wide
+permalink: /talks/
 #title: Viktor Zamaraev's home page
 sidebar:
    - title: "Viktor Zamaraev"
