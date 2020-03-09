@@ -25,5 +25,6 @@ sidebar:
     <span class="course_details">
         {{ item.detail }}
     </span>
+  </li>
 {% endfor %}
 </ul>
