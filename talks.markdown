@@ -16,7 +16,7 @@ sidebar:
 
 # Talks
 
-<ol class="talks_list">
+<ul class="talks_list">
 {% assign talkIndex = site.data.talks.talks.size %}
 {% for item in site.data.talks.talks %}
   <li value="{{ talkIndex }}">
@@ -33,4 +33,4 @@ sidebar:
   </li>
   {% assign talkIndex = talkIndex | minus: 1 %}
 {% endfor %}
-</ol>
+</ul>

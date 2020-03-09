@@ -4,6 +4,7 @@
 layout: single
 classes: wide
 permalink: /publications/
+site.description: List of publications of Viktor Zamaraev
 #title: Viktor Zamaraev's home page
 sidebar:
    - title: "Viktor Zamaraev"

@@ -26,12 +26,15 @@ feature_row:
   - image_path: /assets/images/workshop_30_03_2020/speakers/ThomasErlebach.jpg
     alt: "Prof. Thomas Erlebach"
     title: "Prof. Thomas Erlebach"
+    excerpt: University of Leicester
   - image_path: /assets/images/workshop_30_03_2020/speakers/KittyMeeks.jpg
     alt: "Dr Kitty Meeks"
     title: "Dr Kitty Meeks"
+    excerpt: University of Glasgow
   - image_path: /assets/images/workshop_30_03_2020/speakers/AlexeyPokrovskiy.jpg
     alt: "Dr Alexey Pokrovskiy"
     title: "Dr Alexey Pokrovskiy"
+    excerpt: Birkbeck, University of London
 ---
 
 <!--
@@ -47,16 +50,55 @@ including Internet, mobile-phone networks, ecological networks, social networks,
 transportation networks, etc.
 
 The aims of this one-day workshop are:
-* highlight and strengthen the links between temporal graph theory and other areas of mathematics and computer science
-* bring together interested academics from computer science, mathematics and other areas and stimulate cross-fertilizing discussion
-* foster an interest in the new exciting field and challenging problems in the participants, especially in postgraduate students and early career researchers
+* highlight and strengthen the links between temporal graph theory and other areas of mathematics and computer science;
+* bring together interested academics from computer science, mathematics and other areas and stimulate cross-fertilizing discussion;
+* foster an interest in the new exciting field and challenging problems in the participants, especially in postgraduate students and early career researchers.
+
+
+<span style="font-size: 1em">
+The event if free of charge, but registration is required in order to arrange the coffee breaks and reception.
+</span>
+
+<a href="https://www.eventbrite.co.uk/e/algorithmic-and-combinatorial-aspects-of-temporal-graph-theory-workshop-tickets-98992656701" class="btn btn--primary btn--large btn--success">Registration</a>
+{: .text-center}
 
 The workshop is suppored by [The London Mathematical Society](https://www.lms.ac.uk/ "The London Mathematical Society"), [Networks Sciences & Technologies initiative](https://www.liverpool.ac.uk/network-science-technologies/ "Networks Sciences & Technologies initiative"), and the [Department of Computer Science](https://www.liverpool.ac.uk/computer-science/) of the University of Liverpool.
 
 
 ## Invited Speakers
 
+<!--
 {% include feature_row %}
+-->
+<ul>
+  <li>
+    <span style="font-weight: bold;">
+        <a target="_blank" href="https://www.cs.le.ac.uk/people/te17/">Prof. Thomas Erlebach</a>,
+    </span>
+    <span>
+        University of Leicester
+    </span>
+  </li>
+
+  <li>
+    <span style="font-weight: bold;">
+        <a target="_blank" href="http://www.dcs.gla.ac.uk/~kitty/">Dr Kitty Meeks</a>,
+    </span>
+    <span>
+        University of Glasgow
+    </span>
+  </li>
+
+  <li>
+    <span style="font-weight: bold;">
+        <a target="_blank" href="https://alexeypokrovskiy.com/">Dr Alexey Pokrovskiy</a>,
+    </span>
+    <span>
+        Birkbeck, University of London
+    </span>
+  </li>
+</ul>
+
 
 
 ## Schedule
@@ -92,7 +134,7 @@ The workshop is suppored by [The London Mathematical Society](https://www.lms.ac
         </tr>
         <tr>
             <th>14:00</th>
-            <td colspan="4" class="stage-mercury">Viktor Zamaraev <span>Computing Matchings in Temporal Graphs</span></td>
+            <td colspan="4" class="stage-mercury">Viktor Zamaraev <span>Computing Maximum Matchings in Temporal Graphs</span></td>
         </tr>
         <tr>
             <th>14:30</th>

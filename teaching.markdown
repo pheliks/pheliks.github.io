@@ -16,7 +16,7 @@ sidebar:
 
 # Teaching
 
-<ol class="teaching_list">
+<ul class="teaching_list">
 {% for item in site.data.teaching.courses %}
   <li value="">
     <span class="course_title">
@@ -26,4 +26,4 @@ sidebar:
         {{ item.detail }}
     </span>
 {% endfor %}
-</ol>
+</ul>
