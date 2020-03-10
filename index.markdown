@@ -3,7 +3,8 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: single
 classes: wide
-#title: Viktor Zamaraev's home page
+title: Home
+description: Home page of Viktor Zamaraev
 sidebar:
   - title: "Viktor Zamaraev"
     image: ./assets/portfolio.png
@@ -13,8 +14,6 @@ sidebar:
     text: "Email: [Viktor.Zamaraev@liverpool.ac.uk](mailto:Viktor.Zamaraev@liverpool.ac.uk)"
 ---
 
-
-# Home
 
 <div class="shortBio">
 

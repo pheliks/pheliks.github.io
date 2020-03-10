@@ -5,7 +5,8 @@ layout: single
 classes: wide
 permalink: /publications/
 site.description: List of publications of Viktor Zamaraev
-#title: Viktor Zamaraev's home page
+title: Publications
+description: The list of publications of Viktor Zamaraev
 sidebar:
    - title: "Viktor Zamaraev"
      image: ./assets/portfolio.png
@@ -14,9 +15,6 @@ sidebar:
    - title: "Contact"
      text: "Email: [Viktor.Zamaraev@liverpool.ac.uk](mailto:Viktor.Zamaraev@liverpool.ac.uk)"
 ---
-
-# Publications
-
 
 ## Manuscripts
 <ol class="pub_list">

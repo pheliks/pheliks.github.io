@@ -5,8 +5,9 @@ permalink: /temporal-graphs-workshop-30-march-2020/
 
 title: Workshop <br>"Algorithmic and Combinatorial Aspects of Temporal Graph Theory"
 excerpt: 30 March 2020, University of Liverpool
+description: The workshop 'Algorithmic and Combinatorial Aspects of Temporal Graph Theory' aims to highlight and strengthen connections between the emerging area of Temporal Graph Theory and other areas of mathematics and computer science. The event is organized by Viktor Zamaraev and is sponsored by The London Mathematical Society, Networks Sciences & Technologies initiative, and the Department of Computer Science of the University of Liverpool.
 header:
-  overlay_color: "#333"
+  overlay_image: /assets/images/workshop_30_03_2020/background1.jpg
 
 gallery:
   - url: https://www.lms.ac.uk/
@@ -117,7 +118,7 @@ The workshop is suppored by [The London Mathematical Society](https://www.lms.ac
         </tr>
         <tr>
             <th>11:30</th>
-            <td colspan="4" class="stage-mercury">Alexey Pokrovskiy <span>TBD</span></td>
+            <td colspan="4" class="stage-mercury">Alexey Pokrovskiy <span>Long monotone paths in edge-ordered graphs</span></td>
         </tr>
         <tr>
             <th>12:00</th>
@@ -134,7 +135,7 @@ The workshop is suppored by [The London Mathematical Society](https://www.lms.ac
         </tr>
         <tr>
             <th>14:00</th>
-            <td colspan="4" class="stage-mercury">Viktor Zamaraev <span>Computing Maximum Matchings in Temporal Graphs</span></td>
+            <td colspan="4" class="stage-mercury">Viktor Zamaraev <span>Computing maximum matchings in temporal graphs</span></td>
         </tr>
         <tr>
             <th>14:30</th>

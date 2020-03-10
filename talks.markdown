@@ -4,7 +4,8 @@
 layout: single
 classes: wide
 permalink: /talks/
-#title: Viktor Zamaraev's home page
+title: Talks
+description: The list of seminar and conference talks by Viktor Zamaraev
 sidebar:
    - title: "Viktor Zamaraev"
      image: ./assets/portfolio.png
@@ -13,8 +14,6 @@ sidebar:
    - title: "Contact"
      text: "Email: [Viktor.Zamaraev@liverpool.ac.uk](mailto:Viktor.Zamaraev@liverpool.ac.uk)"
 ---
-
-# Talks
 
 <ul class="talks_list">
 {% assign talkIndex = site.data.talks.talks.size %}

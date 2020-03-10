@@ -18,6 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
+# Google services
+google_analytics: UA-43108838-1
+
+
 
 # Build settings
 #theme: minima
@@ -32,12 +36,12 @@ plugins:
 
 minimal_mistakes_skin: default
 masthead_title: " "
-logo: "/assets/portfolio.png"
+# logo: "/assets/logo.png"
 title: Viktor Zamaraev
 title_separator: "|"
 email: Viktor.Zamaraev@liverpool.ac.uk
-description: >- # this means to ignore newlines until "baseurl:"
-  Personal webpage of Viktor Zamaraev
+#description: >- # this means to ignore newlines until "baseurl:"
+#  Personal webpage of Viktor Zamaraev
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.victorzamaraev.com/" # the base hostname & protocol for your site, e.g. http://example.com
 

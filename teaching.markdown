@@ -4,7 +4,8 @@
 layout: single
 classes: wide
 permalink: /teaching/
-#title: Viktor Zamaraev's home page
+title: Teaching
+description: The list of courses taught by Viktor Zamaraev
 sidebar:
    - title: "Viktor Zamaraev"
      image: ./assets/portfolio.png
@@ -13,8 +14,6 @@ sidebar:
    - title: "Contact"
      text: "Email: [Viktor.Zamaraev@liverpool.ac.uk](mailto:Viktor.Zamaraev@liverpool.ac.uk)"
 ---
-
-# Teaching
 
 <ul class="teaching_list">
 {% for item in site.data.teaching.courses %}

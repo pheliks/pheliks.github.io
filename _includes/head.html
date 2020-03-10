@@ -40,3 +40,8 @@
     <script src="{{ script_path }}"></script>
   {% endfor %}
 {% endif %}
+
+
+{% if jekyll.environment == 'production' %}
+  {% include analytics.html %}
+{% endif %}
