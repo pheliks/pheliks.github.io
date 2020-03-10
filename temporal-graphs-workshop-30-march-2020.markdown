@@ -114,7 +114,7 @@ The workshop is suppored by [The London Mathematical Society](https://www.lms.ac
         </tr>
         <tr>
             <th>11:00</th>
-            <td colspan="4" class="stage-mercury">Kitty Meeks <span>TBD</span></td>
+            <td colspan="4" class="stage-mercury">Kitty Meeks <span>Changing times to optimise reachability in temporal graphs</span></td>
         </tr>
         <tr>
             <th>11:30</th>
