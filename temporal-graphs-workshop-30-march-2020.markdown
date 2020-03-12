@@ -71,6 +71,7 @@ The workshop is suppored by [The London Mathematical Society](https://www.lms.ac
 <!--
 {% include feature_row %}
 -->
+
 <ul>
   <li>
     <span style="font-weight: bold;">
@@ -139,7 +140,7 @@ The workshop is suppored by [The London Mathematical Society](https://www.lms.ac
         </tr>
         <tr>
             <th>14:30</th>
-            <td colspan="4" class="stage-mercury">Thomas Erlebach <span>TBD</span></td>
+            <td colspan="4" class="stage-mercury">Thomas Erlebach <span>Strict and non-strict temporal exploration</span></td>
         </tr>
         <tr>
             <th>15:00</th>
