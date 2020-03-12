@@ -28,14 +28,23 @@ feature_row:
     alt: "Prof. Thomas Erlebach"
     title: "Prof. Thomas Erlebach"
     excerpt: University of Leicester
+    btn_label: Personal website
+    btn_class: "btn--inverse"
+    url: https://www.cs.le.ac.uk/people/te17/
   - image_path: /assets/images/workshop_30_03_2020/speakers/KittyMeeks.jpg
     alt: "Dr Kitty Meeks"
     title: "Dr Kitty Meeks"
     excerpt: University of Glasgow
+    btn_label: Personal website
+    btn_class: "btn--inverse"
+    url: http://www.dcs.gla.ac.uk/~kitty/
   - image_path: /assets/images/workshop_30_03_2020/speakers/AlexeyPokrovskiy.jpg
     alt: "Dr Alexey Pokrovskiy"
     title: "Dr Alexey Pokrovskiy"
     excerpt: Birkbeck, University of London
+    btn_label: Personal website
+    btn_class: "btn--inverse"
+    url: https://alexeypokrovskiy.com/
 ---
 
 <!--
@@ -68,10 +77,10 @@ The workshop is suppored by [The London Mathematical Society](https://www.lms.ac
 
 ## Invited Speakers
 
-<!--
-{% include feature_row %}
--->
 
+{% include feature_row %}
+
+<!--
 <ul>
   <li>
     <span style="font-weight: bold;">
@@ -100,6 +109,7 @@ The workshop is suppored by [The London Mathematical Society](https://www.lms.ac
     </span>
   </li>
 </ul>
+-->
 
 
 
