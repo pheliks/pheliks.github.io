@@ -4,7 +4,7 @@ classes: wide
 permalink: /temporal-graphs-workshop-30-march-2020/
 
 title: Workshop <br>"Algorithmic and Combinatorial Aspects of Temporal Graph Theory"
-excerpt: 30 March 2020, University of Liverpool
+excerpt:  <strike>30 March 2020</strike>, University of Liverpool
 description: The workshop 'Algorithmic and Combinatorial Aspects of Temporal Graph Theory' aims to highlight and strengthen connections between the emerging area of Temporal Graph Theory and other areas of mathematics and computer science. The event is organized by Viktor Zamaraev and is sponsored by The London Mathematical Society, Networks Sciences & Technologies initiative, and the Department of Computer Science of the University of Liverpool.
 header:
   overlay_image: /assets/images/workshop_30_03_2020/background1.jpg
@@ -53,6 +53,14 @@ feature_row:
     <p>30 March 2020, University of Liverpool</p>
 </div>
 -->
+
+<div class="notice--danger">
+<strong>Postponement of the workshop (13 March 2020).</strong> 
+<br />
+Due to the on-going development of the coronavirus in the UK and the corresponding advice from the University of Liverpool, it is decided
+to postpone the workshop until things become normal. 
+The workshop will be rescheduled for some time in the future when the situation becomes more predictable.
+</div>
 
 Temporal graph theory is an emerging area motivated by the need of mathematical foundations for analysis of 
 temporal networks arising from rich and rapidly growing domain of modern systems with dynamic interactions 
