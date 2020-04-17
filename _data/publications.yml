@@ -54,6 +54,14 @@ journal:
     doi:
 
   - year: 2020
+    title: Between clique-width and linear clique-width of bipartite graphs
+    journal: Discrete Mathematics
+    outputData: 2020. Vol. 343. No. 8
+    coauthors: Alecu B., Kanté M.M., Lozin V.V.
+    link: https://doi.org/10.1016/j.disc.2020.111926
+    doi: https://doi.org/10.1016/j.disc.2020.111926
+
+  - year: 2020
     title: Independent domination versus weighted independent domination
     journal: Information Processing Letters
     outputData: 2020. Vol. 156.
