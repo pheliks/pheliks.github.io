@@ -20,11 +20,6 @@ manuscripts:
     coauthors: Alecu B., Atminas A., Lozin V.V.
 
   - year: 2019
-    title: How fast can we reach a target vertex in stochastic temporal graphs?
-    link: https://arxiv.org/pdf/1903.03636.pdf
-    coauthors: Akrida E.C., Mertzios G.B., Nikoletseas S., Raptopoulos C., Spirakis P.G.
-
-  - year: 2019
     title: Linear Programming complementation and its application to fractional graph theory
     link: https://arxiv.org/pdf/1907.12775.pdf
     coauthors: Gadouleau M., Mertzios G.B.
@@ -51,6 +46,14 @@ journal:
     outputData: (accepted)
     coauthors: Blanché A., Dabrowski K., Johnson M., Lozin V.V., Paulusma D.
     link: https://arxiv.org/pdf/1705.07681.pdf
+    doi:
+
+  - year: 2020
+    title: How fast can we reach a target vertex in stochastic temporal graphs?
+    journal: Journal of Computer and System Sciences
+    outputData: (accepted)
+    coauthors: Akrida E.C., Mertzios G.B., Nikoletseas S., Raptopoulos C., Spirakis P.G.
+    link: https://arxiv.org/pdf/1903.03636.pdf
     doi:
 
   - year: 2020
