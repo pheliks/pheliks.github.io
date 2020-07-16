@@ -18,6 +18,21 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      classes: wide
+      author_profile: true
+      read_time: false
+      comments: false
+      share: false
+      related: false
+
+
 # Google services
 google_analytics: UA-43108838-1
 
