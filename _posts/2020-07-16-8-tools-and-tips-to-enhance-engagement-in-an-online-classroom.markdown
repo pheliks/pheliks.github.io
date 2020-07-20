@@ -1,33 +1,96 @@
 ---
-title:  "8 Tools & Tips to Enhance Activity in an Online Classroom"
+title:  8 Tools & Tips to Enhance Activity in an Online Classroom
+author: Billy Rick
 ---
+
+{% include figure image_path="/assets/images/posts/2020-07-16-8-tools/Main.jpg" alt="this is a placeholder image" caption="Photo by [Cookie the Pom](https://unsplash.com/@cookiethepom) on [Unsplash](https://unsplash.com/s/photos/computer-classroom)"%}
 
 Studies show that enhanced classroom experience can result in a better education and more sophisticated skill development.
 
-Some researchers argue that classroom engagement can be enhanced for at least some students by simply introducing rather more active practices in the classroom. For me as a teacher, it’s been always a non-trivial task to effectively engage with the audience, especially with those of medium or large size. In the current COVID-19 reality, however, where I will most likely need to deliver my lectures online, the problem seems to be hopeless.
+Researchers argue that classroom engagement can be enhanced for at least some students by simply introducing rather more active practices in the classroom. For me as a teacher, it’s been always a non-trivial task to effectively engage with the audience, especially with those of medium or large size. In the current COVID-19 reality, however, where I will most likely need to deliver my lectures online, the problem seems to be hopeless.
 
 That is how I felt a couple of months ago, before I step into the student’s shoes to take part in six online workshops during Making an Impact 2020 at the University of Liverpool. These workshops were delivered by experienced coaches and most of the workshops by design were supposed to be engaging. All these workshops initially were planned to be delivered offline, and had to be adapted to the online setting in a short period of time. For many of the lecturers the online format was new, and I saw this as an opportunity for observing how people approach the problem of engaging students in active learning in the online setting and reflect on what worked and what didn’t.
 
-I further did some online research to find how others are coping with such challenges and what tools help them. I also talked to my colleagues who had to deliver their classes online in the last semester.  In this small post I collected tools and techniques that I noted for my future teaching to consider for facilitating student engagement in the online setting.
+I further did some online research to find how others are coping with such challenges and what tools help them. I also talked to my colleagues who had to deliver their classes online in the last semester.  In this post I collected some tools and techniques that I noted for my future practice to consider for facilitating student engagement in the online setting.
 
 ## Tools and techniques
+<ol class="steps">
+<li><strong>Use online breakout rooms.</strong>
+Group work is an effective method to motivate students, encourage active learning, social interaction, and develop key critical-thinking, communication, collaboration, and decision-making skills. Various online conferencing platforms provide the breakout rooms functionality, which is intended to support group work. Breakout rooms were utilised at almost all of the workshops and proved to be very effective.</li>
+
+{% include figure image_path="/assets/images/posts/2020-07-16-8-tools/Breakout.jpg" alt="this is a placeholder image" caption="Photo by [CoWomen](https://unsplash.com/@cowomen) on [Unsplash](https://unsplash.com/s/photos/zoom-meeting)"%}
+
+<li><strong>Encourage people to switch on their cameras.</strong>
+At one of the workshops in the very beginning the coach asked participants to switch on their camera and say hello, otherwise for her it is hard to speak to the hidden audience. This worked very well, most of the students switched on their camera and left them active during the whole session. This really increased students’ engagement.</li>
+
+{% include figure image_path="/assets/images/posts/2020-07-16-8-tools/Cameras.jpg" alt="this is a placeholder image" caption="Photo by [visuals](https://unsplash.com/@visuals) on [Unsplash](https://unsplash.com/s/photos/zoom)"%}
+
+
+<li><strong>Do activity in parallel with the students.</strong>
+One of the lecturers asked to do a writing exercise for 5 minutes and instead of just sitting and waiting for 5 minutes the lecturer also participated in the activity in parallel with the students. This created a welcoming atmosphere of collaboration.</li>
+
+{% include figure image_path="/assets/images/posts/2020-07-16-8-tools/Activity.jpg" alt="this is a placeholder image" caption="Photo by [William Iven](https://unsplash.com/@firmbee) on [Unsplash](https://unsplash.com/s/photos/working)"%}
+
+  
+<li><strong>Allow anonymity.</strong>Where it was possible some speakers explicitly welcomed anonymous participation in certain activities. This removed a barrier for some people and noticeably increased students’ engagement in the activities.</li>
+
+{% include figure image_path="/assets/images/posts/2020-07-16-8-tools/Anonymity.jpg" alt="this is a placeholder image" caption="Photo by [Vera Jetana](https://unsplash.com/@verajetana) on [Unsplash](https://unsplash.com/s/photos/hiding-cat)"%}
+
+
+<li><strong>Share and discuss exercises in small breakout rooms.</strong>
+Unsurprisingly, I observed that students are less actively involving in sharing their thoughts or results of an individual activity within a large online group. What worked much better and more efficiently for knowledge development is small breakout rooms of 2 to 4 participants. At one of the workshops students were asked to do a writing exercise and then share what they have written with their peers in breakout rooms. A cozy environment of small groups enabled participants to easily share their results and provide feedback to others.</li>
+
+{% include figure image_path="/assets/images/posts/2020-07-16-8-tools/Share.jpg" alt="this is a placeholder image" caption="Photo by [Kaleidico](https://unsplash.com/@kaleidico) on [Unsplash](https://unsplash.com/s/photos/cozy-discussion)"%}
+
+<li><strong>Online polling tools.</strong>
+Such tools let the teacher ask students questions and immediately see and demonstrate the results. It can be used for assessing prior knowledge, identifying points that need follow up, recapping on topics to improve knowledge retention, asking informal questions to kick off a class, running formative assessment, collecting students opinions or checking their understanding of a topic. I know three such tools that either I’ve used myself as a student or heard about from the colleagues. These are <a href="https://pollev.com/" target="_blank" rel="noopener noreferrer">Pollev</a>, <a href="https://www.menti.com/" target="_blank" rel="noopener noreferrer">Menti</a>, <a href="https://kahoot.com/" target="_blank" rel="noopener noreferrer">Kahoot</a>. The latter tool received particularly good reviews from some of my peers.
+<figure class="">
+    <img src="/assets/images/posts/2020-07-16-8-tools/Kahoot.jpg" alt="Kahoot! is a game-based learning platform that brings engagement and fun">
+    <figcaption>
+        Kahoot! is a game-based learning platform that brings engagement and fun.
+    </figcaption>
+</figure>
+</li>
+
+<li><strong>Annotation tools.</strong>
+With these tools students are not only able to answer teacher’s questions interactively but more importantly collaboratively build shared knowledge. For example, in one of the workshops, the coach named some concept and asked us to think about how we understand it. After that, the lecturer provided access to the annotation board where we were welcomed to place stickers with the words that characterise the concept. This followed by engaging and meaningful discussion. The tool that had been used is <a href="https://www.mural.co/" target="_blank" rel="noopener noreferrer">Mural</a>.
+<figure class="">
+    <img src="/assets/images/posts/2020-07-16-8-tools/Mural.png" alt="MURAL is a digital workspace for visual collaboration.">
+    <figcaption>
+        MURAL is a digital workspace for visual collaboration.
+    </figcaption>
+</figure>
+
+</li>
+
+<li><strong>Online forums.</strong>
+A great tool that I’ve learnt from my colleague <a href="https://www.wild-inter.net/" target="_blank" rel="noopener noreferrer">Sebastian Wild</a> is <a href="https://piazza.com/" target="_blank" rel="noopener noreferrer">Piazza</a>, a learning management system which allows students to ask questions in a forum-type format. Instructors are able to moderate the discussion, along with endorsing accurate answers. It allows for student collaboration, knowledge construction, and active learning. Piazza enables students to ask questions online that they wouldn’t get the opportunity to ask otherwise. Moreover instructors have the ability to allow students to post anonymously, encouraging more in-depth discussion. It encourages peer to peer knowledge sharing by endorsing good questions and answers. One can post with code blocking, images, videos, polls, and use LaTeX equation editor to easily read and write equations.
+<figure class="">
+    <img src="/assets/images/posts/2020-07-16-8-tools/Piazza.png" alt="The incredibly easy, completely free Q&amp;A platform.">
+    <figcaption>
+        Piazza &mdash; the incredibly easy, completely free Q&amp;A platform.
+    </figcaption>
+</figure>
+</li>
+</ol>
+
+
+<!--
 1. **Use online breakout rooms**.
-Group work is an effective method to motivate students, encourage active learning, social interaction, and develop key critical-thinking, communication, collaboration, and decision-making skills. Various online conferencing platforms provide the breakout rooms functionality, which is intended to support group work. Breakout rooms were utilised at almost all of the workshops and proved to be very convenient.
+Group work is an effective method to motivate students, encourage active learning, social interaction, and develop key critical-thinking, communication, collaboration, and decision-making skills. Various online conferencing platforms provide the breakout rooms functionality, which is intended to support group work. Breakout rooms were utilised at almost all of the workshops and proved to be very effective.
 
 2. **Encourage people to switch on their cameras**. 
 At one of the workshops in the very beginning the coach asked participants to switch on their camera and say hello, otherwise for her it is hard to speak to the hidden audience. This worked very well, most of the students switched on their camera and left them active during the whole session. This really increased students’ engagement.
 
-3. **Do activity in parallel with the students**. One of the lecturers asked to do a writing exercise for 5 minutes and instead of just sitting and waiting for 5 minutes the lecturer also participated in the activity in parallel with the students. This created the atmosphere of collaboration rather than order to do exercise.
+3. **Do activity in parallel with the students**. One of the lecturers asked to do a writing exercise for 5 minutes and instead of just sitting and waiting for 5 minutes the lecturer also participated in the activity in parallel with the students. This created a welcoming atmosphere of collaboration.
 
-4. **Allow anonymity**. Where it was possible some speakers explicitly welcomed anonymous participation in certain activities. This removed a barrier for some people and noticeably increased students’ engagement in the activities. 
+4. **Allow anonymity**. Where it was possible some speakers explicitly welcomed anonymous participation in certain activities. This removed a barrier for some people and noticeably increased students’ engagement in the activities.
 
-5. **Share and discuss exercises in small breakout rooms**. Unsurprisingly, I observed that students are less actively involving in sharing their thoughts or results of an individual activity within a large online group. What worked much better and more efficiently for knowledge development is small breakout rooms of 2 to 4 participants. At one of the workshops students were asked to do a writing exercise and then share what they have written with their peers and 
+5. **Share and discuss exercises in small breakout rooms**. Unsurprisingly, I observed that students are less actively involving in sharing their thoughts or results of an individual activity within a large online group. What worked much better and more efficiently for knowledge development is small breakout rooms of 2 to 4 participants. At one of the workshops students were asked to do a writing exercise and then share what they have written with their peers in breakout rooms. A cozy environment of small groups enabled participants to easily share their results and provide feedback to others.
 
-6. **Online polling tools**. Such tools let the teacher ask students questions and immediately see and show the results. It can be used for assessing prior knowledge, identifying topics that need follow up, recapping on topics to improve knowledge retention, asking informal questions to kick off a class, running formative assessment, collecting students opinions or checking their understanding of a topic. I know three such tools that either I’ve used myself as a student or heard from the colleagues. These are [Pollev](https://pollev.com/), [Menti](https://www.menti.com/), [Kahoot](https://kahoot.com/). The latter tool received particularly good reviews from some of my peers. 
+6. **Online polling tools**. Such tools let the teacher ask students questions and immediately see and demonstrate the results. It can be used for assessing prior knowledge, identifying points that need follow up, recapping on topics to improve knowledge retention, asking informal questions to kick off a class, running formative assessment, collecting students opinions or checking their understanding of a topic. I know three such tools that either I’ve used myself as a student or heard about from the colleagues. These are [Pollev](https://pollev.com/), [Menti](https://www.menti.com/), [Kahoot](https://kahoot.com/). The latter tool received particularly good reviews from some of my peers. 
 
 7. **Annotation tools**. With these tools students are not only able to answer teacher’s questions interactively but more importantly collaboratively build shared knowledge. For example, in one of the workshops, the coach named some concept and asked us to think about how we understand it. After that, the lecturer provided access to the annotation board where we were welcomed to place stickers with the words that characterise the concept. This followed by engaging and meaningful discussion. The tool that had been used is [Mural](https://www.mural.co/).
 
 8. **Online forums**. A great tool that I’ve learnt from my colleague [Sebastian Wild](https://www.wild-inter.net/) is [Piazza](https://piazza.com/), a learning management system which allows students to ask questions in a forum-type format. Instructors are able to moderate the discussion, along with endorsing accurate answers. It allows for student collaboration, knowledge construction, and active learning. Piazza enables students to ask questions online that they wouldn’t get the opportunity to ask otherwise. Moreover instructors have the ability to allow students to post anonymously, encouraging more in-depth discussion. It encourages peer to peer knowledge sharing by endorsing good questions and answers. One can post with code blocking, images, videos, polls, and use LaTeX equation editor to easily read and write equations.
-
-
-I realised that the online setting has some advantages that are not available in a face-to-face class. One needs to recognised these advantages use it to enhance the teaching.
+-->

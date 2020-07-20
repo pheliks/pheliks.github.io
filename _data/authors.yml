@@ -1,0 +1,11 @@
+Billy Rick:
+  name        : "Viktor Zamaraev"
+  bio         : "Lecturer in Computer Science at the University of Liverpool"
+  avatar      : "/assets/logoSmall.png"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:viktor.zamaraev@liverpool.ac.uk"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.victorzamaraev.com/"

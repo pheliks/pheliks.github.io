@@ -28,8 +28,8 @@ defaults:
       classes: wide
       author_profile: true
       read_time: false
-      comments: false
-      share: false
+      comments: true
+      share: true
       related: false
 
 
@@ -51,7 +51,7 @@ plugins:
 
 minimal_mistakes_skin: default
 masthead_title: " "
-# logo: "/assets/logo.png"
+#logo: "/assets/logo.png"
 title: Viktor Zamaraev
 title_separator: "|"
 email: Viktor.Zamaraev@liverpool.ac.uk
