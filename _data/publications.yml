@@ -247,6 +247,12 @@ journal:
 
 conference:
   - year: 2020
+    title: "Exact and Approximate Algorithms for Computing a Second Hamiltonian Cycle"
+    conference: MFCS
+    coauthors: Deligkas A., Mertzios G.B., Spirakis P.G.
+    link: https://doi.org/10.4230/LIPIcs.MFCS.2020.27
+
+  - year: 2020
     title: "Computing Maximum Matchings in Temporal Graphs"
     conference: STACS
     coauthors: Mertzios G.B., Molter H., Niedermeier R., Zschoche P.
