@@ -11,7 +11,7 @@ Researchers argue that classroom engagement can be enhanced for at least some st
 
 That is how I felt a couple of months ago, before I step into the student’s shoes to take part in six online workshops during Making an Impact 2020 at the University of Liverpool. These workshops were delivered by experienced coaches and most of the workshops by design were supposed to be engaging. All these workshops initially were planned to be delivered offline, and had to be adapted to the online setting in a short period of time. For many of the lecturers the online format was new, and I saw this as an opportunity for observing how people approach the problem of engaging students in active learning in the online setting and reflect on what worked and what didn’t.
 
-I further did some online research to find how others are coping with such challenges and what tools help them. I also talked to my colleagues who had to deliver their classes online in the last semester.  In this post I collected some tools and techniques that I noted for my future practice to consider for facilitating student engagement in the online setting.
+I also used a chance of observing and reflecting on online teaching during the workshops of [Developing Academic Practice](https://www.liverpool.ac.uk/eddev/supporting-teaching/pgcap/) course that I am attending at the University of Liverpool. I further did some online research to find how others are coping with such challenges and what tools help them. In addition, I talked to my colleagues who had to deliver their classes online in the last semester. In this post I collected some tools and techniques that I noted for my future practice to consider for facilitating student engagement in the online setting.
 
 ## Tools and techniques
 <ol class="steps">
@@ -53,7 +53,7 @@ Such tools let the teacher ask students questions and immediately see and demons
 </li>
 
 <li><strong>Annotation tools.</strong>
-With these tools students are not only able to answer teacher’s questions interactively but more importantly collaboratively build shared knowledge. For example, in one of the workshops, the coach named some concept and asked us to think about how we understand it. After that, the lecturer provided access to the annotation board where we were welcomed to place stickers with the words that characterise the concept. This followed by engaging and meaningful discussion. The tool that had been used is <a href="https://www.mural.co/" target="_blank" rel="noopener noreferrer">Mural</a>.
+With these tools students are not only able to answer teacher’s questions interactively but more importantly collaboratively build shared knowledge. For example, in one of the workshops of the Developing Academic Practice course, our lecturer named some concept and asked us to think about how we understand it. After that, the teacher provided access to the annotation board where we were welcomed to place stickers with the words that characterise the concept. This followed by engaging and meaningful discussion. The tool that had been used is <a href="https://www.mural.co/" target="_blank" rel="noopener noreferrer">Mural</a>.
 <figure class="">
     <img src="/assets/images/posts/2020-07-16-8-tools/Mural.png" alt="MURAL is a digital workspace for visual collaboration.">
     <figcaption>
