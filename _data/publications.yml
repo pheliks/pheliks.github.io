@@ -5,19 +5,9 @@ manuscripts:
     coauthors: Mertzios G.B., Molter H., Niedermeier R., Zschoche P.
 
   - year: 2018
-    title: Deleting edges to restrict the size of an epidemic in temporal networks
-    link: https://arxiv.org/pdf/1805.06836.pdf
-    coauthors: Enright J., Meeks K., Mertzios G.B.
-
-  - year: 2018
     title: Distributed minimum vertex coloring and maximum independent set in chordal graphs
     link: https://arxiv.org/pdf/1805.04544.pdf
     coauthors: Konrad C.
-
-  - year: 2019
-    title: Graph classes with linear Ramsey numbers
-    link: https://arxiv.org/pdf/1910.12109.pdf
-    coauthors: Alecu B., Atminas A., Lozin V.V.
 
   - year: 2019
     title: Linear Programming complementation and its application to fractional graph theory
@@ -40,6 +30,22 @@ manuscripts:
 
 
 journal:
+
+  - year: 2021
+    title: Deleting edges to restrict the size of an epidemic in temporal networks
+    journal: Journal of Computer and System Sciences
+    outputData: (accepted)
+    coauthors: Enright J., Meeks K., Mertzios G.B.
+    link: https://arxiv.org/pdf/1805.06836.pdf
+    
+  - year: 2021
+    title: Graph classes with linear Ramsey numbers
+    journal: Discrete Mathematics
+    outputData: 2021. Vol. 344. No. 4.
+    coauthors: Alecu B., Atminas A., Lozin V.V.
+    link: https://arxiv.org/pdf/1910.12109.pdf
+    doi: https://doi.org/10.1016/j.disc.2021.112307
+
   - year: 2020
     title: Clique-width for graph classes closed under complementation
     journal: SIAM Journal on Discrete Mathematics
