@@ -19,24 +19,23 @@ manuscripts:
     link: https://arxiv.org/pdf/1910.05254.pdf
     coauthors: Dabrowski K., Johnson M., Paesani G., Paulusma D.   
 
-  - year: 2019
-    title: Sliding Window Temporal Graph Coloring
-    link: https://arxiv.org/pdf/1811.04753.pdf
-    coauthors: Mertzios G.B., Molter H.
-
-
-
-
-
 
 journal:
+  - year: 2021
+    title: Sliding window temporal graph coloring
+    journal: Journal of Computer and System Sciences
+    outputData: 2021. Vol. 120.
+    coauthors: Mertzios G.B., Molter H.
+    link: https://arxiv.org/pdf/1811.04753.pdf
+    doi: https://doi.org/10.1016/j.jcss.2021.03.005
 
   - year: 2021
     title: Deleting edges to restrict the size of an epidemic in temporal networks
     journal: Journal of Computer and System Sciences
-    outputData: (accepted)
+    outputData: 2021. Vol. 119.
     coauthors: Enright J., Meeks K., Mertzios G.B.
     link: https://arxiv.org/pdf/1805.06836.pdf
+    doi: https://doi.org/10.1016/j.jcss.2021.01.007
     
   - year: 2021
     title: Graph classes with linear Ramsey numbers
@@ -49,18 +48,18 @@ journal:
   - year: 2020
     title: Clique-width for graph classes closed under complementation
     journal: SIAM Journal on Discrete Mathematics
-    outputData: (accepted)
+    outputData: 2020. Vol. 34(2).
     coauthors: Blanché A., Dabrowski K., Johnson M., Lozin V.V., Paulusma D.
     link: https://arxiv.org/pdf/1705.07681.pdf
-    doi:
+    doi: https://doi.org/10.1137/18M1235016
 
   - year: 2020
     title: How fast can we reach a target vertex in stochastic temporal graphs?
     journal: Journal of Computer and System Sciences
-    outputData: (accepted)
+    outputData: 2020. Vol. 114.
     coauthors: Akrida E.C., Mertzios G.B., Nikoletseas S., Raptopoulos C., Spirakis P.G.
     link: https://arxiv.org/pdf/1903.03636.pdf
-    doi:
+    doi: https://doi.org/10.1016/j.jcss.2020.05.005
 
   - year: 2020
     title: Between clique-width and linear clique-width of bipartite graphs
@@ -81,7 +80,7 @@ journal:
   - year: 2020
     title: "Letter graphs and geometric grid classes of permutations: characterization and recognition"
     journal: Discrete Applied Mathematics
-    outputData: (accepted)
+    outputData: 2020. Vol. 283.
     coauthors: Alecu B., Lozin V.V., de Werra D.
     link: https://doi.org/10.1016/j.dam.2020.01.038
     doi: https://doi.org/10.1016/j.dam.2020.01.038
