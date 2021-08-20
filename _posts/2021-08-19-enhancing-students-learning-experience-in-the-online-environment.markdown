@@ -6,7 +6,7 @@ author: Billy Rick
 {% include figure image_path="/assets/images/posts/2021-08-19-online-learning/Main.jpg" alt="this is a placeholder image" caption="Photo by [Bermix Studio](https://unsplash.com/@bermixstudio) on [Unsplash](https://unsplash.com/s/photos/online-learning)"%}
 
 <div class="notice--info">
-This post is a condensed version of the detailed <a href="{{site.url}}/assets/files/enhance-learning.pdf" target="_blank" rel="noopener noreferrer">report</a> of a study about efficiency of certain measures to enhance students' experience in the online environment.
+This post is a condensed version of the detailed <a href="https://www.victorzamaraev.com/assets/files/enhance-learning.pdf" target="_blank" rel="noopener noreferrer">report</a> of a study about efficiency of certain measures to enhance students' experience in the online environment.
 </div>
 
 In the academic year 2020/2021, I was a module coordinator of the large module (250 students) “Data Mining and Visualisation” at the Department of Computer Science at the University of Liverpool. 
