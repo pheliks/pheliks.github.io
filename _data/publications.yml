@@ -251,6 +251,12 @@ journal:
 
 
 conference:
+  - year: 2021
+    title: "Sharp thresholds in random simple temporal graphs"
+    conference: FOCS
+    coauthors: Casteigts A., Raskin M., Renken M.
+    link: https://arxiv.org/pdf/2011.03738.pdf
+
   - year: 2020
     title: "Exact and Approximate Algorithms for Computing a Second Hamiltonian Cycle"
     conference: MFCS
