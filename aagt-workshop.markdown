@@ -25,10 +25,10 @@ The main intention of the "Algorithmic Aspects of Temporal Graphs" workshop seri
 <strong>Past workshops in the series</strong> 
 <br />
 <ul>
-  <li><a target="_blank" href="https://mertzios.net/Workshops/ICALP-21-Satellite/Temporal-Graphs-ICALP-2021.html">AAGT 2021</a> (online, Glasgow, Scotland, UK Monday 12 July 2021)</li>
-  <li><a target="_blank" href="https://mertzios.net/Workshops/ICALP-20-Satellite/Temporal-Graphs-ICALP-2020.html">AAGT 2020</a> (online, Saarbrücken, Germany, Tuesday 7 July 2020)</li>
-  <li><a target="_blank" href="https://mertzios.net/Workshops/ICALP-19-Satellite/Temporal-Graphs-ICALP-2019.html">AAGT 2019</a> (Patras, Greece, Monday 8 July 2019)</li>
-  <li><a target="_blank" href="https://mertzios.net/Workshops/ICALP-18-Satellite/Temporal-Graphs-ICALP-2018.html">AAGT 2018</a> (Prague, Czech Republic, Monday 9 July 2018)</li>
+  <li><a target="_blank" href="https://mertzios.net/Workshops/ICALP-21-Satellite/Temporal-Graphs-ICALP-2021.html">AAGT 2021</a> (online, Glasgow, Scotland, UK, 12 July 2021)</li>
+  <li><a target="_blank" href="https://mertzios.net/Workshops/ICALP-20-Satellite/Temporal-Graphs-ICALP-2020.html">AAGT 2020</a> (online, Saarbrücken, Germany, 7 July 2020)</li>
+  <li><a target="_blank" href="https://mertzios.net/Workshops/ICALP-19-Satellite/Temporal-Graphs-ICALP-2019.html">AAGT 2019</a> (Patras, Greece, 8 July 2019)</li>
+  <li><a target="_blank" href="https://mertzios.net/Workshops/ICALP-18-Satellite/Temporal-Graphs-ICALP-2018.html">AAGT 2018</a> (Prague, Czech Republic, 9 July 2018)</li>
 </ul>
 </div>
 
