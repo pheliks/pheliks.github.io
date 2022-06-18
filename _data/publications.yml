@@ -4,11 +4,6 @@ manuscripts:
     link: https://arxiv.org/pdf/1905.05304.pdf
     coauthors: Mertzios G.B., Molter H., Niedermeier R., Zschoche P.
 
-  - year: 2018
-    title: Distributed minimum vertex coloring and maximum independent set in chordal graphs
-    link: https://arxiv.org/pdf/1805.04544.pdf
-    coauthors: Konrad C.
-
   - year: 2019
     title: Linear Programming complementation and its application to fractional graph theory
     link: https://arxiv.org/pdf/1907.12775.pdf
@@ -21,6 +16,30 @@ manuscripts:
 
 
 journal:
+  - year: 2022
+    title: Letter graphs and geometric grid classes of permutations
+    journal: SIAM Journal on Discrete Mathematics
+    outputData: 2022. (accepted)
+    coauthors: Alecu B., Ferguson R., Kanté M.M., Lozin V., Vatter V.
+    link: https://arxiv.org/pdf/2107.03447.pdf
+    doi:
+
+  - year: 2022
+    title: On Boolean threshold functions with minimum specification number
+    journal: Information and Computation
+    outputData: 2022. (accepted)
+    coauthors: Lozin V., Zamaraeva E., Zolotykh N.Yu.
+    link: https://doi.org/10.1016/j.ic.2022.104926
+    doi: https://doi.org/10.1016/j.ic.2022.104926
+
+  - year: 2022
+    title: Distributed minimum vertex coloring and maximum independent set in chordal graphs
+    journal: Theoretical Computer Science
+    outputData: 2022. Vol. 922.
+    coauthors: Konrad C.
+    link: https://arxiv.org/pdf/1805.04544.pdf
+    doi: https://doi.org/10.1016/j.tcs.2022.04.047
+
   - year: 2021
     title: Sliding window temporal graph coloring
     journal: Journal of Computer and System Sciences
@@ -91,7 +110,7 @@ journal:
     outputData: 2020. Vol. 107. P. 108–123
     coauthors: Akrida E.C., Mertzios G.B., Spirakis P.G.
     link: https://arxiv.org/pdf/1802.07103.pdf
-    doi:
+    doi: https://doi.org/10.1016/j.jcss.2019.08.002
 
   - year: 2018
     title: Dominating induced matchings in graphs containing no long claw
@@ -99,7 +118,7 @@ journal:
     outputData: 2018. Vol. 88. No. 1. P. 18–39.
     coauthors: Hertz A., Lozin V.V., Ries B., de Werra D.
     link: http://arxiv.org/pdf/1505.02558.pdf
-    doi:
+    doi: https://doi.org/10.1002/jgt.22182
 
   - year: 2018
     title: Infinitely many minimal classes of graphs of unbounded clique-width
@@ -107,7 +126,7 @@ journal:
     outputData: 2018. Vol. 248. P. 145–152.
     coauthors: Collins A., Foniok J., Korpelainen N., Lozin V.V.
     link: https://arxiv.org/pdf/1701.08857.pdf
-    doi:
+    doi: https://doi.org/10.1016/j.dam.2017.02.012
 
   - year: 2018
     title: Linear read-once and related Boolean functions
@@ -115,7 +134,7 @@ journal:
     outputData: 2018. Vol. 250. P. 16–27.
     coauthors: Lozin V.V., Razgon I., Zamaraeva E., Zolotykh N.Yu.
     link: https://arxiv.org/pdf/1805.10159.pdf
-    doi:
+    doi: https://doi.org/10.1016/j.dam.2018.05.001
 
   - year: 2018
     title: On forbidden induced subgraphs for unit disk graphs
@@ -123,7 +142,7 @@ journal:
     outputData: 2018. Vol. 60. No. 1. P. 57–97.
     coauthors: Atminas A.
     link: http://arxiv.org/pdf/1602.08148v1.pdf
-    doi:
+    doi: https://doi.org/10.1007/s00454-018-9968-1
 
   - year: 2018
     title: "Upper Domination: towards a dichotomy through boundary properties"
@@ -131,7 +150,7 @@ journal:
     outputData: 2018. Vol. 80. No. 10. P. 2799–2817.
     coauthors: AbouEisha H., Hussain S., Lozin V.V., Monnot J., Ries B.
     link: https://arxiv.org/pdf/1609.01510v1.pdf
-    doi:
+    doi: https://doi.org/10.1007/s00453-017-0346-9
 
   - year: 2018
     title: Well-quasi-ordering versus clique-width
@@ -147,7 +166,7 @@ journal:
     outputData: 2017. Vol. 700. P. 63–74.
     coauthors: Lozin V.V., Malyshev D.S., Mosca R.
     link: https://arxiv.org/pdf/1602.09124.pdf
-    doi:
+    doi: https://doi.org/10.1016/j.tcs.2017.08.007
 
   - year: 2017
     title: The structure and the number of P<sub>7</sub>-free bipartite graphs
@@ -155,7 +174,7 @@ journal:
     outputData: 2017. Vol. 65. P. 143–153.
     coauthors: Lozin V.V.
     link: https://arxiv.org/pdf/1607.08782v1.pdf
-    doi:
+    doi: https://doi.org/10.1016/j.ejc.2017.05.008
 
   - year: 2016
     title: Combinatorics and algorithms for augmenting graphs
@@ -179,7 +198,7 @@ journal:
     outputData: 2015. Vol. 78. No. 3. P. 207–218.
     coauthors: Lozin V.V.
     link: http://onlinelibrary.wiley.com/doi/10.1002/jgt.21799/abstract
-    doi:
+    doi: https://doi.org/10.1002/jgt.21799
 
   - year: 2015
     title: Implicit representations and factorial properties of graphs
@@ -227,7 +246,7 @@ journal:
     outputData: 2011. Vol. 18. No. 1. P. 1–14.
     coauthors: Lozin V.V., Mayhill C.
     link: http://www.combinatorics.org/ojs/index.php/eljc/article/view/v18i1p157
-    doi:
+    doi: https://doi.org/10.37236/644
 
   - year: 2011
     title: Almost all factorial subclasses of quasi-line graphs with respect to one forbidden subgraph
@@ -251,6 +270,26 @@ journal:
 
 
 conference:
+  - year: 2022
+    title: Randomized communication and implicit graph representations
+    conference: STOC
+    coauthors: Harms N., Wild S.
+    link: https://arxiv.org/pdf/2111.03639.pdf
+    doi: https://doi.org/10.1145/3519935.3519978
+
+  - year: 2022
+    title: Graph Parameters, Implicit Representations and Factorial Properties
+    conference: IWOCA
+    coauthors: Alecu B., Alekseev V.E., Atminas A., Lozin V.
+    link: https://doi.org/10.1007/978-3-031-06678-8_5
+
+  - year: 2022
+    title: Faster Exploration of Some Temporal Graphs
+    conference: SAND
+    coauthors: Adamson D., Gusev V.V., Malyshev D.
+    link: https://drops.dagstuhl.de/opus/volltexte/2022/15947/pdf/LIPIcs-SAND-2022-5.pdf
+    doi: https://doi.org/10.4230/LIPIcs.SAND.2022.5
+
   - year: 2021
     title: "Sharp thresholds in random simple temporal graphs"
     conference: FOCS

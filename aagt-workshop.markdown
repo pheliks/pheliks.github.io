@@ -22,6 +22,15 @@ The main intention of the "Algorithmic Aspects of Temporal Graphs" workshop seri
 
 
 <div>
+<strong>Upcoming workshop</strong> 
+<br />
+<ul>
+  <li><a target="_blank" href="https://mertzios.net/Workshops/ICALP-22-Satellite/Temporal-Graphs-ICALP-2022.html">AAGT 2022</a> (hybrid, Paris, France, 4 July 2022)</li>
+</ul>
+</div>
+
+
+<div>
 <strong>Past workshops in the series</strong> 
 <br />
 <ul>
