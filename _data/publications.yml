@@ -17,6 +17,15 @@ manuscripts:
 
 journal:
   - year: 2022
+    title: Succinct Permutation Graphs
+    journal: Algorithmica
+    outputData: 2022. (accepted)
+    coauthors: Tsakalidis K., Wild S.
+    link: https://arxiv.org/pdf/2010.04108.pdf
+    doi:
+    
+
+  - year: 2022
     title: Letter graphs and geometric grid classes of permutations
     journal: SIAM Journal on Discrete Mathematics
     outputData: 2022. (accepted)
