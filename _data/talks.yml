@@ -1,4 +1,59 @@
 talks:
+  - year: 2022
+    type: Seminar talk
+    link:
+    detail: Algorithm Engineering seminar, Hasso Plattner Institute, Germany, 15 December, 2022
+
+  - year: 2022
+    type: Seminar talk
+    link:
+    detail: Algorithms & Complexity Theory seminar, University of Oxford, UK, November 17, 2022
+
+  - year: 2022
+    type: 10th Workshop on Graph Classes, Optimization, and Width Parameters
+    link: https://conferences.famnit.upr.si/event/22/
+    detail: Koper, Slovenia,  September 19 -- 22, 2022
+
+  - year: 2021
+    type: Seminar talk
+    link:
+    detail: FATA seminar, University of Glasgow, UK, November 16, 2021
+
+  - year: 2021
+    type: Seminar talk
+    link:
+    detail: Durham-Liverpool synergy seminar, Durham, UK, November 11, 2021
+
+  - year: 2021
+    type: 11th International Conference on Network Analysis
+    link:
+    detail: Nizhny Novgorod, Russia,  October 18 -- 20, 2021 (Invited Speaker)
+
+  - year: 2021
+    type: 28th British Combinatorial Conference
+    link:
+    detail: Durham University, UK, July 5--9, 2021
+
+  - year: 2021
+    type: 8th European Congress of Mathematics. Algorithmic Graph Theory Minisymposium
+    link:
+    detail: Portorož, Slovenia, June 20 -- 26, 2021 (Invited speaker)
+
+  - year: 2021
+    type: Seminar talk
+    link:
+    detail: DSTA group seminar, University of Liverpool, UK, January 28, 2021
+
+  - year: 2020
+    type: Seminar talk
+    link:
+    detail: DIMAP seminar, University of Warwick, UK, June 23, 2020
+
+  - year: 2020
+    type: Seminar talk
+    link:
+    detail: Computer Science Departmental seminar, University of Liverpool, UK, May 26, 2020
+
   - year: 2019
     type: Seminar talk
     link:

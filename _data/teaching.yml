@@ -1,4 +1,12 @@
 courses:
+  - name: Data Mining & Visualisation
+    year: 2020-
+    detail: at <a target="_blank" rel="nofollow" href="https://www.liverpool.ac.uk/">UoL</a> (Spring 2021-)
+
+  - name: MSc Group Project (module coordinator)
+    year: 2021-
+    detail: at <a target="_blank" rel="nofollow" href="https://www.liverpool.ac.uk/">UoL</a> (Spring 2022-)
+
   - name: Probabilistic Methods in Combinatorics
     year: 2013-2014
     detail: at <a target="_blank" rel="nofollow" href="http://www.unn.ru/eng/">UNN</a> (Spring 2014)
@@ -17,7 +25,7 @@ courses:
 
   - name: Research Seminar on Graph Theory
     year: 2013-2014
-    detail: at <a target="_blank" rel="nofollow" href="http://www.unn.ru/eng/">UNN</a> (013-2014)
+    detail: at <a target="_blank" rel="nofollow" href="http://www.unn.ru/eng/">UNN</a> (2013-2014)
     
   - name: Algorithms and Data Structures
     year: 2012-2013

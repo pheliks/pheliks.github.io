@@ -25,7 +25,7 @@ The main intention of the "Algorithmic Aspects of Temporal Graphs" workshop seri
 <strong>Upcoming workshop</strong> 
 <br />
 <ul>
-  <li><a target="_blank" href="https://mertzios.net/Workshops/ICALP-22-Satellite/Temporal-Graphs-ICALP-2022.html">AAGT 2022</a> (hybrid, Paris, France, 4 July 2022)</li>
+  <li><a target="_blank" href="https://mertzios.net/Workshops/ICALP-23-Satellite/Temporal-Graphs-ICALP-2023.html">AAGT 2023</a> (Paderborn, Germany, 10 July 2023)</li>
 </ul>
 </div>
 
@@ -34,6 +34,7 @@ The main intention of the "Algorithmic Aspects of Temporal Graphs" workshop seri
 <strong>Past workshops in the series</strong> 
 <br />
 <ul>
+  <li><a target="_blank" href="https://mertzios.net/Workshops/ICALP-22-Satellite/Temporal-Graphs-ICALP-2022.html">AAGT 2022</a> (hybrid, Paris, France, 4 July 2022)</li>
   <li><a target="_blank" href="https://mertzios.net/Workshops/ICALP-21-Satellite/Temporal-Graphs-ICALP-2021.html">AAGT 2021</a> (online, Glasgow, Scotland, UK, 12 July 2021)</li>
   <li><a target="_blank" href="https://mertzios.net/Workshops/ICALP-20-Satellite/Temporal-Graphs-ICALP-2020.html">AAGT 2020</a> (online, Saarbrücken, Germany, 7 July 2020)</li>
   <li><a target="_blank" href="https://mertzios.net/Workshops/ICALP-19-Satellite/Temporal-Graphs-ICALP-2019.html">AAGT 2019</a> (Patras, Greece, 8 July 2019)</li>
