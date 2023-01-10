@@ -13,7 +13,7 @@ header:
 
 
 
-Being the intersection of graph theory and computer science, Algorithmic Graph Theory is the study of graph-theoretical problems from a computational perspective. The goal of this minisymposium is to present the spectrum of current research in the area, highlighting relevant open problems and possible techniques for solving them. The topics of interest include (but are not limited to): structural graph theory, graph classes, width parameters, algorithmic metatheorems, parameterized complexity, and approximation algorithms.
+Being the intersection of graph theory and computer science, Algorithmic Graph Theory is the study of graph-theoretical problems from a computational perspective. The goal of the Algorithmic Graph Theory minisymposium at the <a target="_blank" href="https://sicgt.si/">10th Slovenian Conference on Graph Theory</a> is to present the spectrum of current research in the area, highlighting relevant open problems and possible techniques for solving them. The topics of interest include (but are not limited to): structural graph theory, graph classes, width parameters, algorithmic metatheorems, parameterized complexity, and approximation algorithms.
 
 
 
@@ -37,7 +37,7 @@ TBD
 <strong>Organizers</strong> 
 <br />
 <ul>
-  <li><a target="_blank" href="https://osebje.famnit.upr.si/~martin.milanic/">Martin Milanič</a> (UP FAMNIT &  UP IAM, University of Primorska, Slovenia)</li>
+  <li><a target="_blank" href="https://osebje.famnit.upr.si/~martin.milanic/">Martin Milanič</a> (FAMNIT & IAM, University of Primorska, Slovenia)</li>
   <li><a target="_blank" href="https://victorzamaraev.com/">Viktor Zamaraev</a> (University of Liverpool, UK)</li>
 </ul>
 </div>
