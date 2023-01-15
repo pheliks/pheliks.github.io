@@ -16,30 +16,6 @@ sidebar:
      text: "Email: [Viktor.Zamaraev@liverpool.ac.uk](mailto:Viktor.Zamaraev@liverpool.ac.uk)"
 ---
 
-## Manuscripts
-<ol class="pub_list">
-{% assign manuscriptIndex = site.data.publications.manuscripts.size %}
-{% for item in site.data.publications.manuscripts %}
-  <li value="{{ manuscriptIndex }}">
-    <span class="pub_title">
-      {% if item.link %}
-        <a target="_blank" rel="nofollow" href="{{ item.link }}">{{ item.title }}</a>
-      {% else %}
-        {{ item.title }}
-      {% endif %}
-    </span>
-    {% if item.coauthors %}
-      <br>
-      <span class="pub_details">
-        (with {{ item.coauthors }})
-      </span>
-    {% endif %}
-  </li>
-  {% assign manuscriptIndex = manuscriptIndex | minus: 1 %}
-{% endfor %}
-</ol>
-
-
 
 ## Journal Publications
 <ol class="pub_list">
