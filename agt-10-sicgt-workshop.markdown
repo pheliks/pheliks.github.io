@@ -20,7 +20,7 @@ Being the intersection of graph theory and computer science, Algorithmic Graph T
 <div>
 <strong>Invited speaker</strong> 
 <br />
-TBD
+<a target="_blank" href="https://eps.leeds.ac.uk/computing/staff/249/professor-kristina-vuskovic">Kristina Vušković</a>, University of Leeds, UK
 </div>
 
 <br />
