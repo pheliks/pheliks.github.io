@@ -1,0 +1,1 @@
+The original website used Minimal Mistakes Jekyll Theme 4.19.3 by Michael Rose (https://github.com/mmistakes/minimal-mistakes), Copyright 2013–2019 Michael Rose, under the MIT license. Historical generated content, markup and legacy assets are retained from that website. The new shared layout and stylesheet replace the theme at runtime.

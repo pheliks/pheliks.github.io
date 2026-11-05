@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ title }} | {{ site.title }}</title>
+  <meta name="description" content="{{ description or title }}">
+  <link rel="canonical" href="{{ page.url | absoluteUrl }}">
+  <meta property="og:title" content="{{ title }}">
+  <meta property="og:description" content="{{ description or title }}">
+  <meta property="og:url" content="{{ page.url | absoluteUrl }}">
+  <meta property="og:type" content="{{ 'article' if author else 'website' }}">
+  <link rel="icon" href="/favicon.ico">
+  <link rel="alternate" type="application/atom+xml" href="/feed.xml" title="{{ site.title }}">
+  <link rel="stylesheet" href="/assets/site.css">
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+  <header class="site-header">
+    <a class="site-name" href="/">{{ site.title }}</a>
+    <nav aria-label="Main navigation">
+      {% for item in site.data.navigation.main %}<a href="{{ item.url }}"{% if page.url == item.url %} aria-current="page"{% endif %}>{{ item.title }}</a>{% endfor %}
+    </nav>
+  </header>
+  <div class="layout{% if hero %} full-width{% endif %}">
+    {% if not hero %}<aside class="profile" aria-label="Profile">
+      <img src="{{ '/assets/logoSmall.png' if author else '/assets/portfolio.png' }}" alt="Viktor Zamaraev" width="180" height="180">
+      <h2>{{ site.title }}</h2>
+      <p>Lecturer<br>Department of Computer Science<br>University of Liverpool</p>
+      <h3>Contact</h3>
+      <a href="mailto:Viktor.Zamaraev@liverpool.ac.uk">Viktor.Zamaraev@liverpool.ac.uk</a>
+      {% if author %}<p><a href="mailto:viktor.zamaraev@liverpool.ac.uk">Email</a> · <a href="https://www.victorzamaraev.com/">Website</a></p>{% endif %}
+    </aside>{% endif %}
+    <main id="main" tabindex="-1">
+      {% if hero %}<header class="hero" style="background-image:linear-gradient(90deg,#0009,#0003),url('{{ hero }}')"><h1 id="page-title">{{ title }}</h1>{% if lead %}<p>{{ lead }}</p>{% endif %}</header>{% else %}<h1 id="page-title">{{ title }}</h1>{% endif %}
+      <article class="page__content">{{ content | safe }}</article>
+    </main>
+  </div>
+</body>
+</html>
