@@ -36,7 +36,7 @@
       </div>
     </aside>{% endif %}
     <main id="main" tabindex="-1">
-      {% if hero %}<header class="hero" style="background-image:linear-gradient(90deg,rgba(12,30,35,.86),rgba(12,30,35,.45)),url('{{ hero }}')"><h1 id="page-title">{{ title }}</h1>{% if lead %}<p>{{ lead }}</p>{% endif %}</header>{% else %}<header class="page-heading"><h1 id="page-title">{{ title }}</h1></header>{% endif %}
+      {% if hero %}<header class="hero{% if hero_credit %} hero--credited{% endif %}" style="background-image:linear-gradient(90deg,rgba(12,30,35,.86),rgba(12,30,35,.45)),url('{{ hero }}'){% if hero_position %};background-position:{{ hero_position }}{% endif %}"><h1 id="page-title">{{ title }}</h1>{% if lead %}<p>{{ lead }}</p>{% endif %}</header>{% if hero_credit %}<p class="hero-credit">Photo: <a href="{{ hero_credit.author_url }}">{{ hero_credit.author }}</a> · <a href="{{ hero_credit.license_url }}">{{ hero_credit.license }}</a> · <a href="{{ hero_credit.source_url }}">Source</a></p>{% endif %}{% else %}<header class="page-heading"><h1 id="page-title">{{ title }}</h1></header>{% endif %}
       <article class="page__content">{{ content | safe }}</article>
     </main>
   </div>

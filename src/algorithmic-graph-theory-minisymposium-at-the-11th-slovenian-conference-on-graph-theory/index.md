@@ -5,7 +5,14 @@ title: Algorithmic Graph Theory minisymposium
 permalink: /algorithmic-graph-theory-minisymposium-at-the-11th-slovenian-conference-on-graph-theory/
 description: Algorithmic Graph Theory minisymposium at the 11th Slovenian Conference on Graph Theory, Bled, Slovenia, 2027.
 lead: 11th Slovenian Conference on Graph Theory, 20–26 June 2027, Bled, Slovenia
-hero: /assets/images/aagt_workshop/background-aagt.jpg
+hero: /assets/images/agt-11-sicgt-workshop/lake-bled.webp
+hero_position: center 68%
+hero_credit:
+  author: Arne Müseler
+  author_url: http://www.arne-mueseler.com
+  license: CC BY-SA 3.0 DE
+  license_url: https://creativecommons.org/licenses/by-sa/3.0/de/deed.en
+  source_url: https://sicgt.si/assets/Lake_bled_2021-8cddafcd211642dcd1925b9b3491b9caa554a6aed6c5460021aae0ae55c45b69.jpg
 ---
 
 <p>Being the intersection of graph theory and computer science, Algorithmic Graph Theory is the study of graph-theoretical problems from a computational perspective. The goal of the Algorithmic Graph Theory minisymposium at the <a target="_blank" href="https://sicgt.si/" rel="noopener noreferrer">11th Slovenian Conference on Graph Theory</a> is to present the spectrum of current research in the area, highlighting relevant open problems and possible techniques for solving them. The topics of interest include (but are not limited to): structural graph theory, graph classes, width parameters, algorithmic metatheorems, parameterized complexity, and approximation algorithms.</p>
