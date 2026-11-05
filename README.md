@@ -8,7 +8,7 @@ A static Eleventy site, published to GitHub Pages. Node.js replaces the old Ruby
 2. Merge the restoration pull request into `master`.
 3. The **Build and publish website** workflow builds, checks and deploys the site. If necessary, run it manually from the Actions tab, selecting `master`.
 
-After that one-time setup, committing or merging changes to `master` automatically updates the website. Pull requests run the build and checks without deploying. A failed build does not replace the last successful deployment.
+After that one-time setup, committing or merging changes to `master` automatically updates the website. Pull requests run the build and checks without deploying. A failed build does not replace the last successful deployment. The deploy job checks that Pages uses GitHub Actions, then verifies the live homepage, publications, talks, teaching and stylesheet. Branch publishing must stay disabled: its Jekyll publisher can overwrite the Eleventy deployment with incomplete pages.
 
 The old `Source` branch is retained as historical reference; **make future edits on `master`**. There is no longer a separate manual source/build/push process. Do not commit `_site/` or `node_modules/`.
 

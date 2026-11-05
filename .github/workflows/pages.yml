@@ -36,6 +36,18 @@ jobs:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
+      - uses: actions/checkout@v4
+      - name: Require GitHub Actions as the Pages source
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          build_type="$(gh api "repos/${GITHUB_REPOSITORY}/pages" --jq '.build_type')"
+          if [ "$build_type" != "workflow" ]; then
+            echo "::error::Set Settings → Pages → Build and deployment → Source to GitHub Actions. Branch publishing runs Jekyll and can overwrite this deployment."
+            exit 1
+          fi
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+      - name: Verify the published pages and stylesheet
+        run: python3 scripts/check-live.py "${{ steps.deployment.outputs.page_url }}" --attempts 12
