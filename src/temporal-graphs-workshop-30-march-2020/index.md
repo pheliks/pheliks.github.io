@@ -1,5 +1,6 @@
 ---
 layout: base.njk
+templateEngineOverride: njk
 title: Workshop “Algorithmic and Combinatorial Aspects of Temporal Graph Theory”
 permalink: /temporal-graphs-workshop-30-march-2020/
 description: The workshop ‘Algorithmic and Combinatorial Aspects of Temporal

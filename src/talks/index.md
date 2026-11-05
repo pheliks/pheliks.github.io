@@ -1,5 +1,6 @@
 ---
 layout: base.njk
+templateEngineOverride: liquid
 title: Talks
 permalink: /talks/
 description: The list of seminar and conference talks by Viktor Zamaraev

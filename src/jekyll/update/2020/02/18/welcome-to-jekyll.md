@@ -1,5 +1,6 @@
 ---
 layout: base.njk
+templateEngineOverride: njk
 title: Welcome to Jekyll!
 permalink: /jekyll/update/2020/02/18/welcome-to-jekyll.html
 description: Welcome to Jekyll!

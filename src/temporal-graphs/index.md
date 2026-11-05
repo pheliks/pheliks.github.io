@@ -1,5 +1,6 @@
 ---
 layout: base.njk
+templateEngineOverride: njk
 title: Temporal Graph Theory
 permalink: /temporal-graphs/
 description: The workshop ‘Algorithmic and Combinatorial Aspects of Temporal

@@ -1,5 +1,6 @@
 ---
 layout: base.njk
+templateEngineOverride: njk
 title: Algorithmic Aspects of Temporal Graphs
 permalink: /aagt-workshop/
 description: The ‘Algorithmic Aspects of Temporal Graphs’ workshop series is

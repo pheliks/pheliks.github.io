@@ -1,5 +1,6 @@
 ---
 layout: base.njk
+templateEngineOverride: liquid
 title: Home
 permalink: /
 description: Home page of Viktor Zamaraev

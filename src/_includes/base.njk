@@ -14,7 +14,7 @@
   <link rel="alternate" type="application/atom+xml" href="/feed.xml" title="{{ site.title }}">
   <link rel="stylesheet" href="/assets/site.css">
 </head>
-<body>
+<body class="{% if hero %}page-event{% elif author %}page-article{% elif page.url == '/' %}page-home{% else %}page-standard{% endif %}">
   <a class="skip-link" href="#main">Skip to content</a>
   <header class="site-header">
     <a class="site-name" href="/">{{ site.title }}</a>
@@ -25,14 +25,18 @@
   <div class="layout{% if hero %} full-width{% endif %}">
     {% if not hero %}<aside class="profile" aria-label="Profile">
       <img src="{{ '/assets/logoSmall.png' if author else '/assets/portfolio.png' }}" alt="Viktor Zamaraev" width="180" height="180">
+      <div class="profile-details">
       <h2>{{ site.title }}</h2>
       <p>Lecturer<br>Department of Computer Science<br>University of Liverpool</p>
+      <div class="contact">
       <h3>Contact</h3>
-      <a href="mailto:Viktor.Zamaraev@liverpool.ac.uk">Viktor.Zamaraev@liverpool.ac.uk</a>
-      {% if author %}<p><a href="mailto:viktor.zamaraev@liverpool.ac.uk">Email</a> · <a href="https://www.victorzamaraev.com/">Website</a></p>{% endif %}
+      <a href="mailto:Viktor.Zamaraev@liverpool.ac.uk">Viktor.Zamaraev@<wbr>liverpool.ac.uk</a>
+      {% if author %}<p class="author-links"><a href="mailto:viktor.zamaraev@liverpool.ac.uk">Email</a> · <a href="https://www.victorzamaraev.com/">Website</a></p>{% endif %}
+      </div>
+      </div>
     </aside>{% endif %}
     <main id="main" tabindex="-1">
-      {% if hero %}<header class="hero" style="background-image:linear-gradient(90deg,#0009,#0003),url('{{ hero }}')"><h1 id="page-title">{{ title }}</h1>{% if lead %}<p>{{ lead }}</p>{% endif %}</header>{% else %}<h1 id="page-title">{{ title }}</h1>{% endif %}
+      {% if hero %}<header class="hero" style="background-image:linear-gradient(90deg,rgba(12,30,35,.86),rgba(12,30,35,.45)),url('{{ hero }}')"><h1 id="page-title">{{ title }}</h1>{% if lead %}<p>{{ lead }}</p>{% endif %}</header>{% else %}<header class="page-heading"><h1 id="page-title">{{ title }}</h1></header>{% endif %}
       <article class="page__content">{{ content | safe }}</article>
     </main>
   </div>
