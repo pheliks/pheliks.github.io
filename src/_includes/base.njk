@@ -16,8 +16,8 @@
 </head>
 <body class="{% if hero %}page-event{% elif author %}page-article{% elif page.url == '/' %}page-home{% else %}page-standard{% endif %}">
   <a class="skip-link" href="#main">Skip to content</a>
-  <header class="site-header">
-    <a class="site-name" href="/">{{ site.title }}</a>
+  <header class="site-header{% if not hero %} academic-header{% endif %}">
+    {% if hero %}<a class="site-name" href="/">{{ site.title }}</a>{% endif %}
     <nav aria-label="Main navigation">
       {% for item in site.data.navigation.main %}<a href="{{ item.url }}"{% if page.url == item.url %} aria-current="page"{% endif %}>{{ item.title }}</a>{% endfor %}
     </nav>
