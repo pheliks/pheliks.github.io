@@ -1,5 +1,6 @@
 ---
 layout: base.njk
+templateEngineOverride: liquid
 title: Publications
 permalink: /publications/
 description: The list of publications of Viktor Zamaraev

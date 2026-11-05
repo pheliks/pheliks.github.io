@@ -1,5 +1,6 @@
 ---
 layout: base.njk
+templateEngineOverride: njk
 title: Algorithmic Graph Theory minisymposium
 permalink: /algorithmic-graph-theory-minisymposium-at-the-10th-slovenian-conference-on-graph-theory/
 description: Algorithmic Graph Theory minisymposium at the 10th Slovenian

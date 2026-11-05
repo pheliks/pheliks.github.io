@@ -1,5 +1,6 @@
 ---
 layout: base.njk
+templateEngineOverride: liquid
 title: Teaching
 permalink: /teaching/
 description: The list of courses taught by Viktor Zamaraev

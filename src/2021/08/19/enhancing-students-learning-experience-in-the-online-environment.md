@@ -1,5 +1,6 @@
 ---
 layout: base.njk
+templateEngineOverride: njk
 title: Enhancing students’ learning experience in the online environment
 permalink: /2021/08/19/enhancing-students-learning-experience-in-the-online-environment.html
 description: Photo by Bermix Studio on Unsplash

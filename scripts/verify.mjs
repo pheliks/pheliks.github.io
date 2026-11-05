@@ -16,6 +16,15 @@ for(const file of files){
  assert.equal($('link[rel="canonical"]').attr('href'),new URL(url,origin).href,`${file}: canonical URL`);
  assert.ok(!html.includes('localhost:4000'),`${file}: local development URL`);
  assert.equal($('nav a[aria-current="page"]').length,['/','/publications/','/talks/','/teaching/'].includes(url)?1:0,`${file}: active navigation`);
+ // HTML preserved from the old site must not be re-parsed into paragraph-wrapped spans or grids.
+ for(const row of $('.pub_list > li').toArray()){
+  assert.equal($(row).children('.pub_title').length,1,`${file}: publication title must be its own field`);
+  assert.equal($(row).children('.pub_details').length,1,`${file}: publication details must follow the title`);
+  assert.ok($(row).children('.pub_details').text().trim(),`${file}: publication details cannot be empty`);
+ }
+ for(const grid of $('.feature__wrapper').toArray()){
+  assert.ok($(grid).children().toArray().every(child=>$(child).hasClass('feature__item')),`${file}: unexpected markup breaks feature grid`);
+ }
  for(const element of $('[href], [src]').toArray()){
   const raw=$(element).attr('href')??$(element).attr('src');if(!raw||/^(mailto:|tel:|data:|javascript:)/.test(raw))continue;
   const target=new URL(raw,new URL(url,origin));if(target.origin!==origin)continue;

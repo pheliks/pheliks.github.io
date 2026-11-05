@@ -1,5 +1,6 @@
 ---
 layout: base.njk
+templateEngineOverride: njk
 title: 8 Tools & Tips to Enhance Activity in an Online Classroom
 permalink: /2020/07/16/8-tools-and-tips-to-enhance-engagement-in-an-online-classroom.html
 description: Photo by Cookie the Pom on Unsplash
