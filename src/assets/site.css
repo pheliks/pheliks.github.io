@@ -142,6 +142,8 @@ figcaption p { margin: 0; }
   background-position: center;
   color: white;
 }
+.hero.hero--credited { margin-bottom: .65rem; }
+.hero-credit { margin: 0 0 2.5rem; color: var(--muted); font-size: .75rem; line-height: 1.6; text-align: right; }
 .hero h1 { max-width: 27ch; color: white; font-size: clamp(1.8rem, 3.5vw, 2.5rem); line-height: 1.15; letter-spacing: -.025em; text-wrap: pretty; }
 .hero p { max-width: 58ch; margin: 1.2rem 0 0; color: #f0f4f4; font-size: .9375rem; line-height: 1.6; }
 .full-width .page__content { max-width: 800px; margin: 0 auto; }
