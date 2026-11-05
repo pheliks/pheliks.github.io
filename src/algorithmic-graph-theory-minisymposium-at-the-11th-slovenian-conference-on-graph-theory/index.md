@@ -1,34 +1,40 @@
 ---
 layout: base.njk
+templateEngineOverride: njk
 title: Algorithmic Graph Theory minisymposium
 permalink: /algorithmic-graph-theory-minisymposium-at-the-11th-slovenian-conference-on-graph-theory/
-description: Algorithmic Graph Theory minisymposium at the 11th Slovenian Conference on Graph Theory, Bled, Slovenia, 2027. Organized by Martin Milanič and Viktor Zamaraev.
+description: Algorithmic Graph Theory minisymposium at the 11th Slovenian Conference on Graph Theory, Bled, Slovenia, 2027.
+lead: 11th Slovenian Conference on Graph Theory, 20–26 June 2027, Bled, Slovenia
+hero: /assets/images/aagt_workshop/background-aagt.jpg
 ---
 
-At the [11th Slovenian Conference on Graph Theory](https://sicgt.si/)
+<p>Being the intersection of graph theory and computer science, Algorithmic Graph Theory is the study of graph-theoretical problems from a computational perspective. The goal of the Algorithmic Graph Theory minisymposium at the <a target="_blank" href="https://sicgt.si/" rel="noopener noreferrer">11th Slovenian Conference on Graph Theory</a> is to present the spectrum of current research in the area, highlighting relevant open problems and possible techniques for solving them. The topics of interest include (but are not limited to): structural graph theory, graph classes, width parameters, algorithmic metatheorems, parameterized complexity, and approximation algorithms.</p>
 
-**Conference dates:** 20–26 June 2027  
-**Location:** Bled, Slovenia
-
-<div class="notice--info">
-The minisymposium programme, speakers and session dates will be announced here. The dates above are those of the conference as a whole.
+<div>
+<strong>Keynote speaker</strong>
+<br>
+To be announced.
 </div>
 
-## About the minisymposium
+<div>
+<strong>Tentative participants</strong> (to be updated; any participants of the conference are welcome to join the minisymposium)
+<br>
+<p>To be announced.</p>
+</div>
 
-Being the intersection of graph theory and computer science, Algorithmic Graph Theory is the study of graph-theoretical problems from a computational perspective. The goal of the minisymposium is to present the spectrum of current research in the area, highlighting relevant open problems and possible techniques for solving them.
+<div>
+<strong>Conference schedule</strong>
+<p>The minisymposium schedule will be announced. The conference takes place on 20–26 June 2027; the dates of the minisymposium sessions are not yet confirmed.</p>
+<p>See more information on the <a target="_blank" href="https://sicgt.si/" rel="noopener noreferrer">main website</a>.</p>
+</div>
 
-The topics of interest include (but are not limited to): structural graph theory, graph classes, width parameters, algorithmic metatheorems, parameterized complexity, and approximation algorithms.
-
-## Organizers
-
-- [Martin Milanič](https://osebje.famnit.upr.si/~martin.milanic/)
-- [Viktor Zamaraev](/)
-
-## Conference information
-
-For general conference information, please visit the [official conference website](https://sicgt.si/).
-
-## Previous edition
-
-The [2023 minisymposium at the 10th Slovenian Conference on Graph Theory](/algorithmic-graph-theory-minisymposium-at-the-10th-slovenian-conference-on-graph-theory/) took place in Kranjska Gora, Slovenia.
+<div class="notice--primary">
+<strong>Organizers</strong>
+<br>
+<ul>
+  <li>
+<a target="_blank" href="https://osebje.famnit.upr.si/~martin.milanic/" rel="noopener noreferrer">Martin Milanič</a> (FAMNIT &amp; IAM, University of Primorska, Slovenia)</li>
+  <li>
+<a target="_blank" href="https://victorzamaraev.com/" rel="noopener noreferrer">Viktor Zamaraev</a> (University of Liverpool, UK)</li>
+</ul>
+</div>
