@@ -1,2 +1,4 @@
-
-.jekyll-cache/Jekyll/Cache/*
+node_modules/
+_site/
+.cache/
+.DS_Store
