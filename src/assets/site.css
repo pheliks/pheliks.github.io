@@ -80,11 +80,10 @@ main { min-width: 0; }
 .profile > img { display: block; width: 120px; height: auto; border-radius: 2px; margin-bottom: 1.25rem; }
 .profile h2 { margin: 0 0 .6rem; font-size: 1.125rem; letter-spacing: -.02em; }
 .profile p { margin: 0; color: var(--ink); }
-.profile .contact { margin-top: 1.25rem; }
-.profile h3 { margin: 0 0 .3rem; font-size: .8125rem; font-weight: 600; color: var(--ink); }
-.profile .contact > a { font-size: .8125rem; overflow-wrap: anywhere; }
-.profile .contact > a:hover { text-decoration: underline; }
-.profile .author-links { margin-top: .75rem; font-size: .75rem; }
+.profile-links { display: flex; flex-wrap: wrap; align-items: center; gap: .25rem; margin-top: 1.25rem; }
+.profile-links a { display: inline-flex; align-items: center; justify-content: center; width: 2rem; height: 2rem; color: var(--muted); text-decoration: none; }
+.profile-links a:hover, .profile-links a:focus-visible { color: var(--link); }
+.profile-links svg { display: block; width: 20px; height: 20px; }
 
 /* Biography: dates form a stable, readable column. */
 .bio_table { width: 100%; border-collapse: collapse; font-size: .9375rem; line-height: 1.65; }
@@ -185,7 +184,6 @@ figure.third img { display: block; max-height: 80px; width: auto; max-width: 100
 /* Tablet and narrow screens */
 @media (max-width: 960px) {
   .layout { grid-template-columns: 190px minmax(0, 1fr); gap: 1.75rem; }
-  .profile .contact > a { font-size: .75rem; }
   .bio_table .bio_record_period { width: 116px; padding-right: 1.2rem; }
   .feature__wrapper { gap: 1rem; }
   .archive__item-body { padding: .9rem; }
@@ -199,9 +197,7 @@ figure.third img { display: block; max-height: 80px; width: auto; max-width: 100
   .profile { position: static; display: grid; grid-template-columns: 76px minmax(0, 1fr); gap: 1.1rem; width: 100%; padding-right: 0; border-right: 0; font-size: .75rem; }
   .profile > img { width: 76px; height: auto; margin: 0; }
   .profile h2 { font-size: 1.05rem; margin-bottom: .35rem; }
-  .profile .contact { border: 0; padding: 0; margin-top: .75rem; }
-  .profile h3 { display: none; }
-  .profile .contact > a { font-size: .75rem; }
+  .profile-links { margin-top: .75rem; }
   .page-standard .profile, .page-article .profile { order: 2; padding-top: 1.5rem; border-top: 1px solid var(--line); }
   .page-home .profile { padding-bottom: 1.5rem; border-bottom: 1px solid var(--line); }
   .page-heading { margin-bottom: 1.5rem; padding-bottom: 1.1rem; }
@@ -241,6 +237,9 @@ figure.third img { display: block; max-height: 80px; width: auto; max-width: 100
 }
 @media (prefers-reduced-motion: reduce) {
   html { scroll-behavior: auto; }
+}
+@media (pointer: coarse) {
+  .profile-links a { width: 44px; height: 44px; }
 }
 @media print {
   body { font-size: 11pt; }
