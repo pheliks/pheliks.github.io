@@ -81,9 +81,12 @@ main { min-width: 0; }
 .profile h2 { margin: 0 0 .6rem; font-size: 1.125rem; letter-spacing: -.02em; }
 .profile p { margin: 0; color: var(--ink); }
 .profile-links { display: flex; flex-wrap: wrap; align-items: center; gap: .25rem; margin-top: 1.25rem; }
-.profile-links a { display: inline-flex; align-items: center; justify-content: center; width: 2rem; height: 2rem; color: var(--muted); text-decoration: none; }
-.profile-links a:hover, .profile-links a:focus-visible { color: var(--link); }
-.profile-links svg { display: block; width: 20px; height: 20px; }
+.profile-links a { --profile-hover: var(--link); display: inline-flex; align-items: center; justify-content: center; width: 2.25rem; height: 2.25rem; color: var(--muted); text-decoration: none; }
+.profile-links a[aria-label="Google Scholar"] { --profile-hover: #4285f4; }
+.profile-links a[aria-label="DBLP"] { --profile-hover: #004f9f; }
+.profile-links a[aria-label="LinkedIn"] { --profile-hover: #0a66c2; }
+.profile-links a:hover, .profile-links a:focus-visible { color: var(--profile-hover); }
+.profile-links svg { display: block; width: 24px; height: 24px; }
 
 /* Biography: dates form a stable, readable column. */
 .bio_table { width: 100%; border-collapse: collapse; font-size: .9375rem; line-height: 1.65; }
