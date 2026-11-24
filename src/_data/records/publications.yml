@@ -1,4 +1,4 @@
-manuscripts:
+preprints:
   - year: 2026
     title: Small classes have linear neighbourhood complexity
     outputData: 2026. Preprint, arXiv:2611.15299.
@@ -29,21 +29,14 @@ manuscripts:
     link: https://arxiv.org/abs/2412.19771
     coauthors: Sylvester J., Zhukovskii M.
 
-  - title: Evolution of Connectivity from Random Temporal Paths
-    outputData: Manuscript.
-    coauthors: Erde J., Gutkin M., Klodt N., Sylvester J.
-
-
-forthcoming:
-  - title: Exploration of k-edge-deficient temporal graphs in linear time
+journal:
+  - year: 2027
+    title: Exploration of k-edge-deficient temporal graphs in linear time
     journal: Discrete Mathematics
     outputData: In press. Assigned to Vol. 350, No. 2 (2027), Article 115451.
     coauthors: Lahtin I.
     link: https://doi.org/10.1016/j.disc.2026.115451
     doi: https://doi.org/10.1016/j.disc.2026.115451
-
-
-journal:
   - year: 2026
     title: Boolean Combinations of Graphs
     journal: The Electronic Journal of Combinatorics

@@ -6,25 +6,6 @@ permalink: /publications/
 description: The list of publications of Viktor Zamaraev
 ---
 
-<h2 id="forthcoming-publications">Forthcoming Publications</h2>
-<ul class="pub_list">
-{% for item in site.data.publications.forthcoming %}
-  <li>
-    <span class="pub_title">
-      {% if item.link %}
-        <a target="_blank" rel="nofollow" href="{{ item.link }}">{{ item.title }}</a>
-      {% else %}
-        {{ item.title }}
-      {% endif %}
-    </span>
-    <br>
-    <span class="pub_details">
-      <span class="journal">{{ item.journal | append: ". " }}</span> {{ item.outputData }}{% if item.coauthors %} (with {{ item.coauthors }}){% endif %}
-    </span>
-  </li>
-{% endfor %}
-</ul>
-
 <h2 id="journal-publications">Journal Publications</h2>
 <ol class="pub_list">
 {% assign journalPubIndex = site.data.publications.journal.size %}
@@ -80,9 +61,9 @@ description: The list of publications of Viktor Zamaraev
 {% endfor %}
 </ol>
 
-<h2 id="preprints-and-manuscripts">Preprints and Manuscripts</h2>
+<h2 id="preprints">Preprints</h2>
 <ul class="pub_list">
-{% for item in site.data.publications.manuscripts %}
+{% for item in site.data.publications.preprints %}
   <li>
     <span class="pub_title">
       {% if item.link %}

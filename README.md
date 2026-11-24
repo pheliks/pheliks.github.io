@@ -31,9 +31,9 @@ The existing YAML records and their fields are retained:
 
 To add a publication or talk, copy a neighboring YAML record and edit its fields. List order controls display order. Publication numbering is generated automatically. Quote values containing colons and keep indentation consistent.
 
-Publication records are grouped under `journal`, `conference`, `forthcoming`, and `manuscripts`. Keep forthcoming papers and preprints separate from published papers, and update their category and citation when their status changes.
+Publication records are grouped under `journal`, `conference`, and `preprints`. Include accepted or in-press papers in their journal or conference list with their status stated in the citation. Only publicly available preprints belong in `preprints`.
 
-In `teaching.yml`, mark active courses with `current: true`; other courses appear under Previous teaching. PhD supervision is listed under `current_students` and `completed_students`, with each student's topic, supervision role, and period.
+In `teaching.yml`, list all courses under `courses` in display order. Teaching appears as one list, with dates included in each course's details.
 
 The four main pages use the original Liquid templates and YAML. Existing pages contain HTML in `.md` files, with an explicit Liquid or Nunjucks renderer in `templateEngineOverride`. This prevents Markdown from inserting paragraph tags inside HTML lists and grids. Edit these pages as HTML; their published wording, links and manually edited workshop details are preserved. New pages and posts can use regular Markdown by omitting `templateEngineOverride`. Keep each page’s `permalink` unchanged to preserve existing links, and retain heading `id` values when editing a section.
 

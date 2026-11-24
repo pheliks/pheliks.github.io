@@ -1,7 +1,6 @@
 courses:
   - name: MSc Group Project
     year: 2022–present
-    current: true
     detail: Module coordinator at <a target="_blank" rel="nofollow" href="https://www.liverpool.ac.uk/">University of Liverpool</a> (Spring 2022–present)
 
   - name: Data Mining & Visualisation
@@ -67,30 +66,3 @@ courses:
   - name: Discrete mathematics
     year: 2010-2011
     detail: at <a target="_blank" rel="nofollow" href="http://www.unn.ru/eng/">UNN</a> (2010-2011, seminars)
-
-current_students:
-  - name: Sarosh Adenwalla
-    period: Since 2024
-    role: Primary supervisor
-    topic: Algorithmic and combinatorial aspects of temporal graphs
-
-  - name: Zihui Xu
-    period: Since 2026
-    role: Secondary supervisor
-    topic: Packing Coloring of Graphs and Planar Graphs with Bounded Degree
-
-  - name: Ziad Ismaili Alaoui
-    period: Since 2024
-    role: Secondary supervisor
-    topic: Computing over Compressed Graph-Structured Data
-
-completed_students:
-  - name: Jonathan Balasingham
-    period: 2021–2025
-    role: Primary supervisor
-    topic: Invariant-based AI for Material Property Prediction
-
-  - name: Nada Almalki
-    period: 2021–2025
-    role: Secondary supervisor
-    topic: Centralized and Distributed Algorithms for Shape Transformation via Size-Changing Dynamics
