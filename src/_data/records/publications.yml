@@ -1,42 +1,214 @@
 manuscripts:
-  - year: 2019
-    title: Computing Maximum Matchings in Temporal Graphs
-    link: https://arxiv.org/pdf/1905.05304.pdf
-    coauthors: Mertzios G.B., Molter H., Niedermeier R., Zschoche P.
+  - year: 2026
+    title: Small classes have linear neighbourhood complexity
+    outputData: 2026. Preprint, arXiv:2611.15299.
+    link: https://arxiv.org/abs/2611.15299
+    coauthors: Sylvester J., Zhukovskii M.
 
-  - year: 2019
-    title: Linear Programming complementation and its application to fractional graph theory
-    link: https://arxiv.org/pdf/1907.12775.pdf
-    coauthors: Gadouleau M., Mertzios G.B.
+  - year: 2026
+    title: "Set-defined graph classes: χ-boundedness meets tropical algebra"
+    outputData: 2026. Preprint, arXiv:2607.23754.
+    link: https://arxiv.org/abs/2607.23754
+    coauthors: Adenwalla S., Braunfeld S., Hons T., Sylvester J.
 
-  - year: 2019
-    title: On the price of independence for vertex cover, feedback vertex set and odd cycle transversal
-    link: https://arxiv.org/pdf/1910.05254.pdf
-    coauthors: Dabrowski K., Johnson M., Paesani G., Paulusma D.
+  - year: 2025
+    title: Awesome graph parameters
+    outputData: 2025. Preprint, arXiv:2511.05285.
+    link: https://arxiv.org/abs/2511.05285
+    coauthors: Bešter Štorgel K., Dallard C., Lozin V., Milanič M.
+
+  - year: 2025
+    title: Complexity of learning matchings and half graphs via edge queries
+    outputData: 2025. Preprint, arXiv:2507.03151.
+    link: https://arxiv.org/abs/2507.03151
+    coauthors: Mande N.S., Sanyal S.
+
+  - year: 2024
+    title: Functionality of Random Graphs
+    outputData: 2024. Preprint, arXiv:2412.19771.
+    link: https://arxiv.org/abs/2412.19771
+    coauthors: Sylvester J., Zhukovskii M.
+
+  - title: Evolution of Connectivity from Random Temporal Paths
+    outputData: Manuscript.
+    coauthors: Erde J., Gutkin M., Klodt N., Sylvester J.
+
+
+forthcoming:
+  - title: Exploration of k-edge-deficient temporal graphs in linear time
+    journal: Discrete Mathematics
+    outputData: In press. Assigned to Vol. 350, No. 2 (2027), Article 115451.
+    coauthors: Lahtin I.
+    link: https://doi.org/10.1016/j.disc.2026.115451
+    doi: https://doi.org/10.1016/j.disc.2026.115451
 
 
 journal:
-  - year: 2022
+  - year: 2026
+    title: Boolean Combinations of Graphs
+    journal: The Electronic Journal of Combinatorics
+    outputData: 2026. Vol. 33. No. 4. Paper P4.12.
+    coauthors: Adenwalla S., Braunfeld S., Sylvester J.
+    link: https://doi.org/10.37236/14170
+    doi: https://doi.org/10.37236/14170
+
+  - year: 2026
+    title: Giant Components in Random Temporal Graphs
+    journal: SIAM Journal on Discrete Mathematics
+    outputData: 2026. Vol. 40. No. 2. P. 449–485.
+    coauthors: Becker R., Casteigts A., Crescenzi P., Kodric B., Raskin M., Renken M.
+    link: https://doi.org/10.1137/24M1673206
+    doi: https://doi.org/10.1137/24M1673206
+
+  - year: 2026
+    title: "Lettericity of graphs: an FPT algorithm and a bound on the size of obstructions"
+    journal: Algorithmica
+    outputData: 2026. Vol. 88. No. 1. Article 2.
+    coauthors: Alecu B., Kanté M.M., Lozin V.
+    link: https://doi.org/10.1007/s00453-025-01341-9
+    doi: https://doi.org/10.1007/s00453-025-01341-9
+
+  - year: 2025
+    title: Randomized Communication and Implicit Graph Representations
+    journal: TheoretiCS
+    outputData: 2025. Vol. 4.
+    coauthors: Harms N., Wild S.
+    link: https://doi.org/10.46298/theoretics.25.20
+    doi: https://doi.org/10.46298/theoretics.25.20
+
+  - year: 2025
+    title: Linear Programming complementation
+    journal: Theoretical Computer Science
+    outputData: 2025. Vol. 1032. Article 115087.
+    coauthors: Gadouleau M., Mertzios G.B.
+    link: https://doi.org/10.1016/j.tcs.2025.115087
+    doi: https://doi.org/10.1016/j.tcs.2025.115087
+
+  - year: 2024
+    title: "Small But Unwieldy: A Lower Bound on Adjacency Labels for Small Classes"
+    journal: SIAM Journal on Computing
+    outputData: 2024. Vol. 53. No. 5. P. 1578–1601.
+    coauthors: Bonnet É., Duron J., Sylvester J., Zhukovskii M.
+    link: https://doi.org/10.1137/23M1618661
+    doi: https://doi.org/10.1137/23M1618661
+
+  - year: 2024
+    title: Sharp Thresholds in Random Simple Temporal Graphs
+    journal: SIAM Journal on Computing
+    outputData: 2024. Vol. 53. No. 2. P. 346–388.
+    coauthors: Casteigts A., Raskin M., Renken M.
+    link: https://doi.org/10.1137/22M1511916
+    doi: https://doi.org/10.1137/22M1511916
+
+  - year: 2024
+    title: Optimal Adjacency Labels for Subgraphs of Cartesian Products
+    journal: SIAM Journal on Discrete Mathematics
+    outputData: 2024. Vol. 38. No. 3. P. 2181–2193.
+    coauthors: Esperet L., Harms N.
+    link: https://doi.org/10.1137/23M1587713
+    doi: https://doi.org/10.1137/23M1587713
+
+  - year: 2024
+    title: Accelerating material property prediction using generically complete isometry invariants
+    journal: Scientific Reports
+    outputData: 2024. Vol. 14. Article 10132.
+    coauthors: Balasingham J., Kurlin V.
+    link: https://doi.org/10.1038/s41598-024-59938-z
+    doi: https://doi.org/10.1038/s41598-024-59938-z
+
+  - year: 2024
+    title: Material Property Prediction Using Graphs Based on Generically Complete Isometry Invariants
+    journal: Integrating Materials and Manufacturing Innovation
+    outputData: 2024. Vol. 13. No. 2. P. 555–568.
+    coauthors: Balasingham J., Kurlin V.
+    link: https://doi.org/10.1007/s40192-024-00351-9
+    doi: https://doi.org/10.1007/s40192-024-00351-9
+
+  - year: 2024
+    title: Functionality of Box Intersection Graphs
+    journal: Results in Mathematics
+    outputData: 2024. Vol. 79. No. 1. Article 48.
+    coauthors: Dallard C., Lozin V., Milanič M., Štorgel K.
+    link: https://doi.org/10.1007/s00025-023-02075-2
+    doi: https://doi.org/10.1007/s00025-023-02075-2
+
+  - year: 2024
+    title: The Treewidth and Pathwidth of Graph Unions
+    journal: SIAM Journal on Discrete Mathematics
+    outputData: 2024. Vol. 38. No. 1. P. 261–276.
+    coauthors: Alecu B., Lozin V.V., Quiroz D.A., Rabinovich R., Razgon I.
+    link: https://doi.org/10.1137/22M1524047
+    doi: https://doi.org/10.1137/22M1524047
+
+  - year: 2024
+    title: Union-closed sets and Horn Boolean functions
+    journal: Journal of Combinatorial Theory, Series A
+    outputData: 2024. Vol. 202. Article 105818.
+    coauthors: Lozin V.
+    link: https://doi.org/10.1016/j.jcta.2023.105818
+    doi: https://doi.org/10.1016/j.jcta.2023.105818
+
+  - year: 2024
+    title: Approximate and Randomized Algorithms for Computing a Second Hamiltonian Cycle
+    journal: Algorithmica
+    outputData: 2024. Vol. 86. No. 9. P. 2766–2785.
+    coauthors: Deligkas A., Mertzios G.B., Spirakis P.G.
+    link: https://doi.org/10.1007/s00453-024-01238-z
+    doi: https://doi.org/10.1007/s00453-024-01238-z
+
+  - year: 2024
+    title: On the price of independence for vertex cover, feedback vertex set and odd cycle transversal
+    journal: European Journal of Combinatorics
+    outputData: 2024. Vol. 117. Article 103821.
+    coauthors: Dabrowski K.K., Johnson M., Paesani G., Paulusma D.
+    link: https://doi.org/10.1016/j.ejc.2023.103821
+    doi: https://doi.org/10.1016/j.ejc.2023.103821
+
+  - year: 2024
+    title: Graphs with minimum fractional domatic number
+    journal: Discrete Applied Mathematics
+    outputData: 2024. Vol. 343. P. 140–148.
+    coauthors: Gadouleau M., Harms N., Mertzios G.B.
+    link: https://doi.org/10.1016/j.dam.2023.10.020
+    doi: https://doi.org/10.1016/j.dam.2023.10.020
+
+  - year: 2023
+    title: Graph parameters, implicit representations and factorial properties
+    journal: Discrete Mathematics
+    outputData: 2023. Vol. 346. No. 10. Article 113573.
+    coauthors: Alecu B., Alekseev V.E., Atminas A., Lozin V.
+    link: https://doi.org/10.1016/j.disc.2023.113573
+    doi: https://doi.org/10.1016/j.disc.2023.113573
+
+  - year: 2023
+    title: Computing maximum matchings in temporal graphs
+    journal: Journal of Computer and System Sciences
+    outputData: 2023. Vol. 137. P. 1–19.
+    coauthors: Mertzios G.B., Molter H., Niedermeier R., Zschoche P.
+    link: https://doi.org/10.1016/j.jcss.2023.04.005
+    doi: https://doi.org/10.1016/j.jcss.2023.04.005
+
+  - year: 2023
     title: Succinct Permutation Graphs
     journal: Algorithmica
-    outputData: 2022. (accepted)
+    outputData: 2023. Vol. 85. No. 2. P. 509–543.
     coauthors: Tsakalidis K., Wild S.
     link: https://arxiv.org/pdf/2010.04108.pdf
-    doi:
+    doi: https://doi.org/10.1007/s00453-022-01039-2
 
 
   - year: 2022
     title: Letter graphs and geometric grid classes of permutations
     journal: SIAM Journal on Discrete Mathematics
-    outputData: 2022. (accepted)
+    outputData: 2022. Vol. 36. No. 4. P. 2774–2797.
     coauthors: Alecu B., Ferguson R., Kanté M.M., Lozin V., Vatter V.
     link: https://arxiv.org/pdf/2107.03447.pdf
-    doi:
+    doi: https://doi.org/10.1137/21M1449646
 
   - year: 2022
     title: On Boolean threshold functions with minimum specification number
     journal: Information and Computation
-    outputData: 2022. (accepted)
+    outputData: 2022. Vol. 289. Article 104926.
     coauthors: Lozin V., Zamaraeva E., Zolotykh N.Yu.
     link: https://doi.org/10.1016/j.ic.2022.104926
     doi: https://doi.org/10.1016/j.ic.2022.104926
@@ -279,6 +451,69 @@ journal:
 
 
 conference:
+  - year: 2026
+    title: Graph Classes Closed Under Self-Intersection
+    conference: WG
+    coauthors: Dabrowski K.K., Lozin V., Milanič M., Munaro A., Paulusma D.
+    link: https://doi.org/10.4230/LIPIcs.WG.2026.14
+    doi: https://doi.org/10.4230/LIPIcs.WG.2026.14
+
+  - year: 2026
+    title: Temporal Exploration of Random Spanning Tree Models
+    conference: SODA
+    coauthors: Baguley S., Göbel A., Klodt N., Skretas G., Sylvester J.
+    link: https://doi.org/10.1137/1.9781611978971.106
+    doi: https://doi.org/10.1137/1.9781611978971.106
+
+  - year: 2025
+    title: Adjacency Labeling Schemes for Small Classes
+    conference: ITCS
+    coauthors: Bonnet É., Duron J., Sylvester J.
+    link: https://doi.org/10.4230/LIPIcs.ITCS.2025.21
+    doi: https://doi.org/10.4230/LIPIcs.ITCS.2025.21
+
+  - year: 2024
+    title: Symmetric-Difference (Degeneracy) and Signed Tree Models
+    conference: MFCS
+    coauthors: Bonnet É., Duron J., Sylvester J.
+    link: https://doi.org/10.4230/LIPIcs.MFCS.2024.32
+    doi: https://doi.org/10.4230/LIPIcs.MFCS.2024.32
+
+  - year: 2024
+    title: Tight Bounds on Adjacency Labels for Monotone Graph Classes
+    conference: ICALP
+    coauthors: Bonnet É., Duron J., Sylvester J., Zhukovskii M.
+    link: https://doi.org/10.4230/LIPIcs.ICALP.2024.31
+    doi: https://doi.org/10.4230/LIPIcs.ICALP.2024.31
+
+  - year: 2024
+    title: Randomized Communication and Implicit Representations for Matrices and Graphs of Small Sign-Rank
+    conference: SODA
+    coauthors: Harms N.
+    link: https://doi.org/10.1137/1.9781611977912.72
+    doi: https://doi.org/10.1137/1.9781611977912.72
+
+  - year: 2024
+    title: "Small But Unwieldy: A Lower Bound on Adjacency Labels for Small Classes"
+    conference: SODA
+    coauthors: Bonnet É., Duron J., Sylvester J., Zhukovskii M.
+    link: https://doi.org/10.1137/1.9781611977912.44
+    doi: https://doi.org/10.1137/1.9781611977912.44
+
+  - year: 2023
+    title: Giant Components in Random Temporal Graphs
+    conference: RANDOM
+    coauthors: Becker R., Casteigts A., Crescenzi P., Kodric B., Renken M., Raskin M.
+    link: https://doi.org/10.4230/LIPIcs.APPROX/RANDOM.2023.29
+    doi: https://doi.org/10.4230/LIPIcs.APPROX/RANDOM.2023.29
+
+  - year: 2023
+    title: Optimal Adjacency Labels for Subgraphs of Cartesian Products
+    conference: ICALP
+    coauthors: Esperet L., Harms N.
+    link: https://doi.org/10.4230/LIPIcs.ICALP.2023.57
+    doi: https://doi.org/10.4230/LIPIcs.ICALP.2023.57
+
   - year: 2022
     title: Randomized communication and implicit graph representations
     conference: STOC
@@ -350,7 +585,7 @@ conference:
   - year: 2018
     title: "Brief Ann.: Distributed Minimum Vertex Coloring and Maximum Independent Set in chordal graphs"
     conference: PODC
-    coauthors: 2018
+    coauthors: Konrad C.
     link: https://dl.acm.org/doi/10.1145/3212734.3212787
 
   - year: 2018

@@ -1,4 +1,34 @@
 talks:
+  - year: 2025
+    type: Seminar talk
+    link:
+    detail: Combinatorics Group Seminar, Institute of Computer Science, Czech Academy of Sciences, Czech Republic, 24 July 2025
+
+  - year: 2025
+    type: Colloquium talk
+    link:
+    detail: Computer Science Colloquium, University of Leeds, UK, 25 June 2025
+
+  - year: 2024
+    type: Seminar talk
+    link:
+    detail: Algorithm Engineering seminar, Hasso Plattner Institute, Germany, 28 October 2024
+
+  - year: 2024
+    type: Seminar talk
+    link: https://www.ens-lyon.fr/LIP/MC2/GraphesALyon/
+    detail: Graphes@Lyon, ENS Lyon, France, 4 April 2024
+
+  - year: 2024
+    type: Seminar talk
+    link:
+    detail: Liverpool-HPI Workshop, University of Liverpool, UK, 4 March 2024
+
+  - year: 2023
+    type: 2nd Workshop on Logic, Graphs, and Algorithms
+    link:
+    detail: Warsaw, Poland, 15–17 November 2023 (Invited speaker)
+
   - year: 2022
     type: Seminar talk
     link:
@@ -203,6 +233,11 @@ talks:
     type: 2nd International Conference on Network Analysis
     link: http://nnov.hse.ru/en/latna/conferences/net2012
     detail: Higher School of Economics, Nizhni Novgorod, Russia, May 7–9, 2012
+
+  - year: 2012
+    type: Seminar talk
+    link:
+    detail: Discrete Analysis seminar, Moscow State University, Russia, 17 February 2012
 
   - year: 2012
     type: Seminar talk
